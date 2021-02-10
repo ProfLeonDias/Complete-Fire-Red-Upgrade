@@ -64,8 +64,8 @@ const struct WildPokemonHeader gWildMonEveningHeaders[] =
 const struct WildPokemonHeader gWildMonNightHeaders[] =
 {
 	{
-		.mapGroup = MAP_GROUP(ROUTE_1),
-		.mapNum = MAP_NUM(ROUTE_1),
+		.mapGroup = MAP_GROUP(MAP_ROUTE_1),
+		.mapNum = MAP_NUM(MAP_ROUTE_1),
 		.landMonsInfo = &gRoute1_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
