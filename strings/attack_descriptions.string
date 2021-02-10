@@ -1159,6 +1159,15 @@ A cage made of\nelectricity that traps\nthe target for four\nto five turns.
 #org @DESC_DRAGON_ENERGY
 The higher the\nuser's HP, the\nmore powerful this\nattack becomes.
 
+#org @DESC_EERIE_SPELL
+A psychic blast\nthat cuts 3 PP from\nthe move last used\nby the foe.
+
+#org @DESC_GLACIAL_LANCE
+The user attacks by\nhurling a blizzard\ncloaked icicle at\nthe target.
+
+#org @DESC_ASTRAL_BARRAGE
+The user attacks by\nsending a frightful\namount of small\nghosts at the foe.
+
 #org @DESC_MAX_GUARD
 Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.
 
