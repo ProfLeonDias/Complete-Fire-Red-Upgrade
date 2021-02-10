@@ -1,5 +1,44 @@
 # Complete Fire Red Upgrade
 
+/*LIST OF THINGS TO LOOK AT
+-------------------------------------
+src/Tables/battle_frontier_trainers.c
+
+Set up for battle frontier trainers. Look at Unbound and the CFRU documentation for more details.
+-------------------------------------
+src/Tables/battle_tower_spreads.h
+
+Sets up EVs, IVs, ability types, items, moves, ball type, etc, for trainers in the battle tower.
+-------------------------------------
+src/Tables/frontier_multi_spreads.h
+
+Set up battle frontier multi battle partner spreads
+-------------------------------------
+src/Tables/frontier_special_trainer_spreads.h
+
+Set up spreads for Boss Battles in the battle frontier
+-------------------------------------
+src/Tables/frontier_trainer_names.h
+
+Battle frontier trainer names contained here.
+-------------------------------------
+src/Tables/trainers_with_evs_table.h
+
+Settings for the trainers that utilize EVs and IVs are found here.
+-------------------------------------
+src/Tables/wild_encounter_tables.c
+
+Edit morning, evening, and night encounters, as well as swarm encounters.
+-------------------------------------
+strings/frontier_trainer_names.string
+
+How the names defined in frontier_trainer_names.h will appear.
+-------------------------------------
+strings/frontier_trainer_text.string
+
+Text said by battle frontier trainers.
+*/
+
 ## What is this:
 A complete upgrade for Fire Red, including an upgraded Battle Engine.
 
