@@ -36,6 +36,440 @@ const struct WildPokemon gRoute1_LandMonsNight[] =
 };
 
 const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {21, gRoute1_LandMonsNight};
+
+const struct WildPokemon gRoute2_LandMonsNight[] =
+{
+	{3, 5, PKMN_HOOTHOOT},
+	{3, 5, PKMN_RATTATA},
+	{3, 5, PKMN_RATTATA},
+	{3, 5, PKMN_RATTATA},
+	{3, 5, PKMN_HOOTHOOT},
+	{3, 5, PKMN_KRICKETOT},
+	{3, 5, PKMN_KRICKETOT},
+	{3, 5, PKMN_SPINARAK},
+	{3, 5, PKMN_WEEDLE},
+	{3, 5, PKMN_HOOTHOOT},
+	{3, 5, PKMN_WEEDLE},
+	{3, 5, PKMN_HOOTHOOT},
+};
+
+const struct WildPokemonInfo gRoute2_LandMonsInfoNight = {XX, gRoute2_LandMonsNight};
+
+const struct WildPokemon gRoute3_LandMonsNight[] =
+{
+	{6, 8, PKMN_HOOTHOOT},
+	{6, 8, PKMN_RATTATA},
+	{6, 8, PKMN_MANKEY},
+	{5, 5, PKMN_IGGLYBUFF},
+	{6, 8, PKMN_SANDSHREW},
+	{6, 8, PKMN_EKANS},
+	{6, 8, PKMN_RATTATA},
+	{6, 8, PKMN_BALTOY},
+	{6, 8, PKMN_SANDSHREW},
+	{6, 8, PKMN_EKANS},
+	{6, 8, PKMN_BALTOY},
+	{6, 8, PKMN_BALTOY},
+};
+
+const struct WildPokemonInfo gRoute3_LandMonsInfoNight = {XX, gRoute3_LandMonsNight};
+
+const struct WildPokemon gRoute4_LandMonsNight[] =
+{
+	{8, 12, PKMN_HOOTHOOT},
+	{2, 12, PKMN_RATTATA},
+	{2, 12, PKMN_MANKEY},
+	{8, 12, PKMN_PSYDUCK},
+	{8, 12, PKMN_SANDSHREW},
+	{8, 12, PKMN_EKANS},
+	{8, 12, PKMN_JIGGLYPUFF},
+	{8, 12, PKMN_HOOTHOOT},
+	{8, 12, PKMN_BUIZEL},
+	{8, 12, PKMN_BUIZEL},
+	{8, 12, PKMN_JIGGLYPUFF},
+	{8, 12, PKMN_JIGGLYPUFF},
+};
+
+const struct WildPokemonInfo gRoute4_LandMonsInfoNight = {XX, gRoute4_LandMonsNight};
+
+const struct WildPokemon gRoute5_LandMonsNight[] =
+{
+	{12, 16, PKMN_HOOTHOOT},
+	{12, 16, PKMN_RATTATA},
+	{12, 16, PKMN_VULPIX},
+	{12, 16, PKMN_ODDISH},
+	{12, 16, PKMN_ODDISH},
+	{12, 15, PKMN_ABRA},
+	{12, 16, PKMN_MEOWTH},
+	{12, 16, PKMN_HOOTHOOT},
+	{12, 16, PKMN_MEOWTH},
+	{12, 16, PKMN_MEOWTH},
+	{12, 16, PKMN_MEOWTH},
+	{12, 16, PKMN_MEOWTH},
+};
+
+const struct WildPokemonInfo gRoute5_LandMonsInfoNight = {XX, gRoute5_LandMonsNight};
+
+const struct WildPokemon gRoute6_LandMonsNight[] =
+{
+	{13, 16, PKMN_HOOTHOOT},
+	{13, 16, PKMN_RATTATA},
+	{13, 16, PKMN_VULPIX},
+	{13, 16, PKMN_MAGNEMITE},
+	{13, 16, PKMN_PSYDUCK},
+	{13, 15, PKMN_ABRA},
+	{13, 14, PKMN_SHINX},
+	{13, 14, PKMN_SHINX},
+	{13, 16, PKMN_MEOWTH},
+	{13, 16, PKMN_MEOWTH},
+	{13, 16, PKMN_MEOWTH},
+	{13, 16, PKMN_MEOWTH},
+};
+
+const struct WildPokemonInfo gRoute6_LandMonsInfoNight = {XX, gRoute6_LandMonsNight};
+
+const struct WildPokemon gRoute7_LandMonsNight[] =
+{
+	{17, 19, PKMN_HOOTHOOT},
+	{17, 19, PKMN_RATTATA},
+	{17, 22, PKMN_MURKROW},
+	{17, 22, PKMN_KADABRA},
+	{17, 22, PKMN_HOUNDOUR},
+	{17, 22, PKMN_HOUNDOUR},
+	{17, 22, PKMN_MEOWTH},
+	{20, 22, PKMN_NOCTOWL},
+	{17, 22, PKMN_MEOWTH},
+	{17, 22, PKMN_MEOWTH},
+	{17, 22, PKMN_MEOWTH},
+	{17, 22, PKMN_MEOWTH},
+};
+
+const struct WildPokemonInfo gRoute7_LandMonsInfoNight = {XX, gRoute7_LandMonsNight};
+
+const struct WildPokemon gRoute8_LandMonsNight[] =
+{
+	{16, 19, PKMN_HOOTHOOT},
+	{16, 19, PKMN_RATTATA},
+	{16, 21, PKMN_GASTLY},
+	{16, 21, PKMN_KADABRA},
+	{16, 21, PKMN_HOUNDOUR},
+	{16, 21, PKMN_HOUNDOUR},
+	{16, 21, PKMN_MEOWTH},
+	{20, 21, PKMN_NOCTOWL},
+	{16, 21, PKMN_MEOWTH},
+	{16, 21, PKMN_MEOWTH},
+	{16, 21, PKMN_MEOWTH},
+	{16, 21, PKMN_MEOWTH},
+};
+
+const struct WildPokemonInfo gRoute8_LandMonsInfoNight = {XX, gRoute8_LandMonsNight};
+
+const struct WildPokemon gRoute9_LandMonsNight[] =
+{
+	{14, 17, PKMN_HOOTHOOT},
+	{14, 17, PKMN_RATTATA},
+	{14, 15, PKMN_NIDORAN_F},
+	{14, 15, PKMN_NIDORAN_M},
+	{14, 17, PKMN_MANKEY},
+	{14, 17, PKMN_BUIZEL},
+	{14, 17, PKMN_VENONAT},
+	{14, 17, PKMN_MANKEY},
+	{14, 17, PKMN_TEDDIURSA},
+	{14, 17, PKMN_TEDDIURSA},
+	{14, 17, PKMN_TEDDIURSA},
+	{14, 17, PKMN_TEDDIURSA},
+};
+
+const struct WildPokemonInfo gRoute9_LandMonsInfoNight = {XX, gRoute9_LandMonsNight};
+
+const struct WildPokemon gRoute10_LandMonsNight[] =
+{
+	{15, 18, PKMN_HOOTHOOT},
+	{15, 18, PKMN_VOLTORB},
+	{15, 15, PKMN_NIDORAN_F},
+	{15, 15, PKMN_NIDORAN_M},
+	{15, 18, PKMN_ELEKID},
+	{15, 18, PKMN_WOOPER},
+	{15, 18, PKMN_KRABBY},
+	{15, 18, PKMN_KRABBY},
+	{15, 18, PKMN_TEDDIURSA},
+	{15, 18, PKMN_ELEKID},
+	{15, 18, PKMN_TEDDIURSA},
+	{15, 18, PKMN_ELEKID},
+};
+
+const struct WildPokemonInfo gRoute10_LandMonsInfoNight = {XX, gRoute10_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+const struct WildPokemon gRouteX_LandMonsNight[] =
+{
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+	{2, 4, PKMN_},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {XX, gRouteX_LandMonsNight};
+
+
 		
 const struct WildPokemonHeader gWildMonMorningHeaders[] =
 {
