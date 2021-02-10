@@ -102,7 +102,7 @@
 #define MAPSEC_TANOBY_CHAMBERS              0xB8
 #define MAPSEC_THREE_ISLE_PATH              0xB9
 #define MAPSEC_TANOBY_KEY                   0xBA
-#define MAPSEC_BIRTH_ISLAND                 0xBB
+#define MAPSEC_MT_SILVER	            0xBB
 #define MAPSEC_MONEAN_CHAMBER               0xBC
 #define MAPSEC_LIPTOO_CHAMBER               0xBD
 #define MAPSEC_WEEPTH_CHAMBER               0xBE
