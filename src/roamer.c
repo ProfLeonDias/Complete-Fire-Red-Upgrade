@@ -105,13 +105,13 @@ static void CreateInitialRoamerMon(u16 species, u8 level, bool8 allowedOnLand, b
 	{
 		switch(GetStarterChoice()) { //0x80CBDB0
 			case SPECIES_BULBASAUR:
-				species = SPECIES_ENTEI;
+				species = SPECIES_MEW;
 				break;
 			case SPECIES_CHARMANDER:
-				species = SPECIES_SUICUNE;
+				species = SPECIES_MEW;
 				break;
 			default:
-				species = SPECIES_RAIKOU;
+				species = SPECIES_MEW;
 		}
 	}
 
