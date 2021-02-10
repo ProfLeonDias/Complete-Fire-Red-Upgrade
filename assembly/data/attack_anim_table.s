@@ -777,6 +777,9 @@ gMoveAnimations:
 .word ANIM_FIERY_WRATH
 .word ANIM_THUNDER_CAGE
 .word ANIM_DRAGON_ENERGY
+.word ANIM_EERIE_SPELL
+.word ANIM_GLACIAL_LANCE
+.word ANIM_ASTRAL_BARRAGE
 .word ANIM_BREAKNECK_BLITZ
 .word ANIM_BREAKNECK_BLITZ
 .word ANIM_ALL_OUT_PUMMELING
@@ -17166,6 +17169,24 @@ ANIM_THUNDER_CAGE:
 .pool
 ANIM_DRAGON_ENERGY:
 	goto ANIM_DRAGONPULSE
+	endanimation
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+.pool
+ANIM_EERIE_SPELL:
+	goto ANIM_PSYSHOCK
+	endanimation
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+.pool
+ANIM_GLACIAL_LANCE:
+	goto ANIM_ICICLECRASH
+	endanimation
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+.pool
+ANIM_ASTRAL_BARRAGE:
+	goto ANIM_DARKPULSE
 	endanimation
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
