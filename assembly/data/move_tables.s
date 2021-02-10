@@ -806,6 +806,7 @@ gSoundMoves:
 .hword MOVE_CLANGOROUS_SOULBLAZE
 .hword MOVE_CLANGOROUSSOUL
 .hword MOVE_OVERDRIVE
+.hword MOVE_EERIESPELL
 .hword MOVE_TABLES_TERMIN
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
