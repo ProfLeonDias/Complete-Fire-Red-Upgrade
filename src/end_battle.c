@@ -133,9 +133,19 @@ void HandleEndTurn_BattleWon(void)
 		switch (gTrainers[id].trainerClass) {
 		#ifndef UNBOUND //Change this part
 			case CLASS_LEADER:
+				PlayBGM(BGM_VICTORY_SPECIAL);
+				specialMus = TRUE;
+				break;
 			case CLASS_ELITE_4:
 			case CLASS_CHAMPION:
-				PlayBGM(BGM_VICTORY_SPECIAL);
+				PlayBGM(BGM_VICTORY_RSE_ELITE_4);
+				specialMus = TRUE;
+				break;
+			case CLASS_JESSIE_AND:
+			case CLASS_TEAM_ROCKET:
+			case CLASS_EXECUTIVE:
+			case CLASS_BOSS:
+				PlayBGM(BGM_VICTORY_RSE_TEAM);
 				specialMus = TRUE;
 				break;
 			default:
