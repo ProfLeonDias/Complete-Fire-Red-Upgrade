@@ -19,6 +19,24 @@ tables to edit:
 
 #ifndef UNBOUND //Modify this section
 
+const struct WildPokemon gRoute1_LandMonsNight[] =
+{
+	{2, 4, PKMN_HOOTHOOT},
+	{2, 4, PKMN_RATTATA},
+	{2, 4, PKMN_HOOTHOOT},
+	{2, 4, PKMN_HOOTHOOT},
+	{2, 4, PKMN_RATTATA},
+	{2, 4, PKMN_RATTATA},
+	{2, 4, PKMN_RATTATA},
+	{2, 4, PKMN_POOCHYENA},
+	{2, 4, PKMN_POOCHYENA},
+	{2, 4, PKMN_POOCHYENA},
+	{2, 4, PKMN_POOCHYENA},
+	{2, 4, PKMN_POOCHYENA},
+};
+
+const struct WildPokemonInfo gRoute1_LandMonsInfoNight = {21, gRoute1_LandMonsNight};
+		
 const struct WildPokemonHeader gWildMonMorningHeaders[] =
 {
 	{
@@ -45,6 +63,14 @@ const struct WildPokemonHeader gWildMonEveningHeaders[] =
 
 const struct WildPokemonHeader gWildMonNightHeaders[] =
 {
+	{
+		.mapGroup = MAP_GROUP(ROUTE_1),
+		.mapNum = MAP_NUM(ROUTE_1),
+		.landMonsInfo = &gRoute1_LandMonsInfoNight,
+		.waterMonsInfo = NULL,
+		.rockSmashMonsInfo = NULL,
+		.fishingMonsInfo = NULL,
+	}
 	{
 		.mapGroup = 0xFF,
 		.mapNum = 0xFF,
