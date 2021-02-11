@@ -399,18 +399,18 @@ const struct WildPokemonInfo gRoute22_LandMonsInfoNight = {XX, gRoute22_LandMons
 
 const struct WildPokemon gRoute23_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{35, 41, PKMN_NOCTOWL},
+	{35, 41, PKMN_EXEGGCUTE},
+	{35, 41, PKMN_ARBOK},
+	{35, 41, PKMN_SANDSLASH},
+	{35, 41, PKMN_NIDORINO},
+	{35, 41, PKMN_NIDORINA},
+	{35, 41, PKMN_ARBOK},
+	{35, 41, PKMN_SANDSLASH},
+	{35, 41, PKMN_PRIMEAPE},
+	{35, 41, PKMN_PRIMEAPE},
+	{35, 41, PKMN_PRIMEAPE},
+	{35, 41, PKMN_PRIMEAPE},
 };
 
 const struct WildPokemonInfo gRoute23_LandMonsInfoNight = {XX, gRoute23_LandMonsNight};
@@ -453,252 +453,252 @@ const struct WildPokemonInfo gRoute25_LandMonsInfoNight = {XX, gRoute25_LandMons
 
 const struct WildPokemon gTreasureBeach_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{33, 38, PKMN_PERSIAN},
+	{33, 38, PKMN_TANGELA},
+	{33, 38, PKMN_PELIPPER},
+	{33, 38, PKMN_TANGELA},
+	{33, 38, PKMN_STARYU},
+	{30, 34, PKMN_SWABLU},
+	{33, 38, PKMN_STARYU},
+	{30, 34, PKMN_SWABLU},
+	{33, 38, PKMN_SHUCKLE},
+	{33, 38, PKMN_SHUCKLE},
+	{33, 38, PKMN_SHUCKLE},
+	{33, 38, PKMN_SHUCKLE},
 };
 
 const struct WildPokemonInfo gTreasureBeach_LandMonsInfoNight = {XX, gTreasureBeach_LandMonsNight};
 
 const struct WildPokemon gKindleRoad_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{33, 38, PKMN_PERSIAN},
+	{33, 38, PKMN_PONYTA},
+	{33, 38, PKMN_PELIPPER},
+	{33, 38, PKMN_SHUCKLE},
+	{33, 38, PKMN_STARYU},
+	{30, 34, PKMN_SWABLU},
+	{33, 38, PKMN_PONYTA},
+	{30, 34, PKMN_SWABLU},
+	{33, 38, PKMN_GRAVELER},
+	{33, 38, PKMN_GRAVELER},
+	{33, 38, PKMN_GRAVELER},
+	{33, 38, PKMN_GRAVELER},
 };
 
 const struct WildPokemonInfo gKindleRoad_LandMonsInfoNight = {XX, gKindleRoad_LandMonsNight};
 
 const struct WildPokemon gMtEmber_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{38, 45, PKMN_GRAVELER},
+	{38, 39, PKMN_PONYTA},
+	{40, 45, PKMN_RAPIDASH},
+	{38, 45, PKMN_HOUNDOOM},
+	{38, 45, PKMN_SKARMORY},
+	{38, 45, PKMN_CAMERUPT},
+	{38, 45, PKMN_CAMERUPT},
+	{30, 30, PKMN_NUMEL},
+	{38, 45, PKMN_MAGMAR},
+	{38, 45, PKMN_MAGMAR},
+	{38, 45, PKMN_MAGMAR},
+	{38, 45, PKMN_MAGMAR},
 };
 
 const struct WildPokemonInfo gMtEmber_LandMonsInfoNight = {XX, gMtEmber_LandMonsNight};
 
 const struct WildPokemon gCapeBrink_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{33, 38, PKMN_PERSIAN},
+	{33, 38, PKMN_GLOOM},
+	{33, 38, PKMN_FLOATZEL},
+	{33, 38, PKMN_AZUMARILL},
+	{33, 38, PKMN_AZUMARILL},
+	{30, 34, PKMN_SWABLU},
+	{30, 30, PKMN_AZURILL},
+	{30, 34, PKMN_SWABLU},
+	{37, 38, PKMN_SLOWBRO},
+	{33, 38, PKMN_GOLDUCK},
+	{37, 38, PKMN_SLOWBRO},
+	{33, 38, PKMN_GOLDUCK},
 };
 
 const struct WildPokemonInfo gCapeBrink_LandMonsInfoNight = {XX, gCapeBrink_LandMonsNight};
 
 const struct WildPokemon gThreeIslePort_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
+	{38, 45, PKMN_DUNSPARCE},
 };
 
 const struct WildPokemonInfo gThreeIslePort_LandMonsInfoNight = {XX, gThreeIslePort_LandMonsNight};
 
 const struct WildPokemon gBondBridge_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{33, 38, PKMN_NOCTOWL},
+	{33, 38, PKMN_GLOOM},
+	{33, 38, PKMN_STANTLER},
+	{33, 38, PKMN_SPINDA},
+	{33, 38, PKMN_PERSIAN},
+	{33, 38, PKMN_HYPNO},
+	{33, 38, PKMN_HYPNO},
+	{33, 38, PKMN_PERSIAN},
+	{33, 38, PKMN_VENOMOTH},
+	{33, 38, PKMN_VENOMOTH},
+	{33, 38, PKMN_VENOMOTH},
+	{33, 38, PKMN_VENOMOTH},
 };
 
 const struct WildPokemonInfo gBondBridge_LandMonsInfoNight = {XX, gBondBridge_LandMonsNight};
 
 const struct WildPokemon gBerryForest_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{34, 39, PKMN_GLOOM},
+	{34, 39, PKMN_EXEGGCUTE},
+	{34, 39, PKMN_STANTLER},
+	{34, 39, PKMN_SPINDA},
+	{34, 39, PKMN_AIPOM},
+	{34, 39, PKMN_HERACROSS},
+	{34, 39, PKMN_HYPNO},
+	{34, 39, PKMN_ARIADOS},
+	{34, 39, PKMN_VENOMOTH},
+	{34, 39, PKMN_VENOMOTH},
+	{34, 39, PKMN_VENOMOTH},
+	{34, 39, PKMN_VENOMOTH},
 };
 
 const struct WildPokemonInfo gBerryForest_LandMonsInfoNight = {XX, gBerryForest_LandMonsNight};
 
 const struct WildPokemon gFiveIsleMeadow_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{40, 45, PKMN_NOCTOWL},
+	{40, 45, PKMN_PERSIAN},
+	{40, 45, PKMN_SUDOWOODO},
+	{40, 45, PKMN_STANTLER},
+	{40, 45, PKMN_CHATOT},
+	{40, 45, PKMN_MIGHTYENA},
+	{40, 45, PKMN_MIGHTYENA},
+	{40, 45, PKMN_SUDOWOODO},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_JUMPLUFF},
 };
 
 const struct WildPokemonInfo gFiveIsleMeadow_LandMonsInfoNight = {XX, gFiveIsleMeadow_LandMonsNight};
 
 const struct WildPokemon gMemorialPillar_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{40, 45, PKMN_CHATOT},
+	{40, 45, PKMN_PELIPPER},
+	{40, 45, PKMN_PELIPPER},
+	{40, 45, PKMN_ALTARIA},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_CHATOT},
+	{40, 45, PKMN_CHATOT},
+	{40, 45, PKMN_ALTARIA},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_JUMPLUFF},
+	{40, 45, PKMN_JUMPLUFF},
 };
 
 const struct WildPokemonInfo gMemorialPillar_LandMonsInfoNight = {XX, gMemorialPillar_LandMonsNight};
 
 const struct WildPokemon gWaterPath_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{44, 49, PKMN_NOCTOWL},
+	{44, 49, PKMN_PERSIAN},
+	{44, 49, PKMN_PERSIAN},
+	{44, 49, PKMN_XATU},
+	{44, 49, PKMN_GLOOM},
+	{44, 49, PKMN_PELIPPER},
+	{44, 49, PKMN_PELIPPER},
+	{44, 49, PKMN_GLOOM},
+	{44, 49, PKMN_ALTARIA},
+	{44, 49, PKMN_ALTARIA},
+	{44, 49, PKMN_ALTARIA},
+	{44, 49, PKMN_ALTARIA},
 };
 
 const struct WildPokemonInfo gWaterPath_LandMonsInfoNight = {XX, gWaterPath_LandMonsNight};
 
 const struct WildPokemon gRuinValley_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{48, 52, PKMN_XATU},
+	{48, 52, PKMN_QUAGSIRE},
+	{48, 52, PKMN_YANMA},
+	{48, 52, PKMN_WOBBUFFET},
+	{48, 52, PKMN_NOSEPASS},
+	{48, 52, PKMN_GLIGAR},
+	{48, 52, PKMN_GLIGAR},
+	{48, 52, PKMN_YANMA},
+	{48, 52, PKMN_SKARMORY},
+	{48, 52, PKMN_SKARMORY},
+	{48, 52, PKMN_SKARMORY},
+	{48, 52, PKMN_SKARMORY},
 };
 
 const struct WildPokemonInfo gRuinValley_LandMonsInfoNight = {XX, gRuinValley_LandMonsNight};
 
 const struct WildPokemon gPatternBush_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{48, 52, PKMN_ARIADOS},
+	{48, 52, PKMN_FORRETRESS},
+	{48, 52, PKMN_VOLBEAT},
+	{48, 52, PKMN_ILLUMISE},
+	{48, 52, PKMN_STANTLER},
+	{48, 52, PKMN_HERACROSS},
+	{48, 52, PKMN_VENOMOTH},
+	{48, 52, PKMN_VENOMOTH},
+	{48, 52, PKMN_BRELOOM},
+	{48, 52, PKMN_BRELOOM},
+	{48, 52, PKMN_BRELOOM},
+	{48, 52, PKMN_BRELOOM},
 };
 
 const struct WildPokemonInfo gPatternBush_LandMonsInfoNight = {XX, gPatternBush_LandMonsNight};
 
 const struct WildPokemon gCanyonEntrance_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{48, 52, PKMN_NOCTOWL},
+	{48, 52, PKMN_PERSIAN},
+	{48, 52, PKMN_GRAVELER},
+	{48, 52, PKMN_GRAVELER},
+	{48, 52, PKMN_NOCTOWL},
+	{48, 52, PKMN_SKARMORY},
+	{48, 52, PKMN_DONPHAN},
+	{48, 52, PKMN_GRAVELER},
+	{48, 52, PKMN_DONPHAN},
+	{48, 52, PKMN_DONPHAN},
+	{48, 52, PKMN_DONPHAN},
+	{48, 52, PKMN_DONPHAN},
 };
 
 const struct WildPokemonInfo gCanyonEntrance_LandMonsInfoNight = {XX, gCanyonEntrance_LandMonsNight};
 
 const struct WildPokemon gSevaultCanyon_LandMonsNight[] =
 {
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
-	{2, 4, PKMN_},
+	{40, 44, PKMN_VIBRAVA},
+	{48, 54, PKMN_CACTURNE},
+	{48, 54, PKMN_GRAVELER},
+	{48, 54, PKMN_MAROWAK},
+	{48, 54, PKMN_SKARMORY},
+	{48, 54, PKMN_PUPITAR},
+	{30, 30, PKMN_CACNEA},
+	{48, 54, PKMN_PUPITAR},
+	{25, 25, PKMN_LARVITAR},
+	{25, 25, PKMN_TRAPINCH},
+	{25, 25, PKMN_LARVITAR},
+	{25, 25, PKMN_RAPINCH},
 };
 
 const struct WildPokemonInfo gSevaultCanyon_LandMonsInfoNight = {XX, gSevaultCanyon_LandMonsNight};
