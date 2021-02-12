@@ -26,10 +26,6 @@ src/Tables/trainers_with_evs_table.h
 
 Settings for the trainers that utilize EVs and IVs are found here.
 -------------------------------------
-src/Tables/wild_encounter_tables.c
-
-Edit morning, evening, and night encounters, as well as swarm encounters.
--------------------------------------
 strings/frontier_trainer_names.string
 
 How the names defined in frontier_trainer_names.h will appear.
