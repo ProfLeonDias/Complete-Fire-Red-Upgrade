@@ -22,10 +22,6 @@ src/Tables/frontier_trainer_names.h
 
 Battle frontier trainer names contained here.
 -------------------------------------
-src/Tables/trainers_with_evs_table.h
-
-Settings for the trainers that utilize EVs and IVs are found here.
--------------------------------------
 strings/frontier_trainer_names.string
 
 How the names defined in frontier_trainer_names.h will appear.
