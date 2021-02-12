@@ -204,9 +204,9 @@ u8 __attribute__((long_call)) GetCurrentRegionMapSectionId(void);
 #define MAP_NAVEL_ROCK_BASE_PATH_B11F                 (53 | (2 << 8))
 #define MAP_NAVEL_ROCK_B1F                            (54 | (2 << 8))
 #define MAP_NAVEL_ROCK_FORK                           (55 | (2 << 8))
-#define MAP_BIRTH_ISLAND_EXTERIOR                     (56 | (2 << 8))
+#define MAP_MT_SILVER_ROUTE_28                     (56 | (2 << 8))
 #define MAP_ONE_ISLAND_KINDLE_ROAD_EMBER_SPA          (57 | (2 << 8))
-#define MAP_BIRTH_ISLAND_HARBOR                       (58 | (2 << 8))
+#define MAP_MT_SILVER_EXTERIOR                       (58 | (2 << 8))
 #define MAP_NAVEL_ROCK_HARBOR                         (59 | (2 << 8))
 
 // Map Group 3
