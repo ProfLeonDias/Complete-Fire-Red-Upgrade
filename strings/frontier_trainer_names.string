@@ -600,8 +600,6 @@ Mackenzie
 #org @sTrainerName_Madeline
 Madeline
 
-#ifdef UNBOUND
-
 //Special Trainers
 #org @sTrainerName_Egypt
 Egypt
@@ -622,5 +620,3 @@ Green
 
 #org @sTrainerName_May
 May
-
-#endif
