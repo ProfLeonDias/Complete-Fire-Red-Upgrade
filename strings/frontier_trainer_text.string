@@ -9,8 +9,6 @@ I guess dropping out of school\nwasn't so smart[.]
 #org @sFrontierText_Youngster_PlayerLose_1
 Heh, I told you I wasn't a\npushover!
 
-#ifdef UNBOUND
-
 #org @sFrontierText_Youngster_PreBattle_2
 I left school to be here[.]\pI won't let you stand between me\nand greatness!
 
@@ -278,27 +276,6 @@ Gear change!\nWe're attacking at top speed!
 #org @sFrontierText_Cyclist_PlayerWin_1
 I'm taking it to a zone beyond\nspeed!
 
-#org @sFrontierText_Cyclist_PlayerLose_1
-Kaboom!
-
-#org @sFrontierText_Cyclist_PreBattle_2
-Come on!\pWe'll run!\pTogether!
-
-#org @sFrontierText_Cyclist_PlayerWin_2
-Wait! Don't leave me behind!
-
-#org @sFrontierText_Cyclist_PlayerLose_2
-Gooooooooaaaaal!
-
-#org @sFrontierText_Cyclist_PreBattle_3
-I'd rather cycle casually than go\nfull speed.
-
-#org @sFrontierText_Cyclist_PlayerWin_3
-You ought to take things more\ncasually[.]
-
-#org @sFrontierText_Cyclist_PlayerLose_3
-Let's take it easy.
-
 #org @sFrontierText_Burglar_PreBattle_1
 I was a thief, but I went straight\nas a Trainer.
 
@@ -326,31 +303,31 @@ A good politician is quite as\nunthinkable as an honest burglar.
 #org @sFrontierText_Burglar_PlayerLose_3
 We burglars know there's more than\none way to skin a streak.
 
-#org @sFrontierText_Worker_PreBattle_1
+#org @sFrontierText_Engineer_PreBattle_1
 It was me who put up the buildings\naround these parts.
 
-#org @sFrontierText_Worker_PlayerWin_1
+#org @sFrontierText_Engineer_PlayerWin_1
 My dream is to make a building\ntaller than a mountain!
 
-#org @sFrontierText_Worker_PlayerLose_1
+#org @sFrontierText_Engineer_PlayerLose_1
 So, what do you think?\nCool stuff, huh?
 
-#org @sFrontierText_Worker_PreBattle_2
+#org @sFrontierText_Engineer_PreBattle_2
 I'll scrap you.
 
-#org @sFrontierText_Worker_PlayerWin_2
+#org @sFrontierText_Engineer_PlayerWin_2
 Think ecology. Think green.
 
-#org @sFrontierText_Worker_PlayerLose_2
+#org @sFrontierText_Engineer_PlayerLose_2
 I'll recycle you.
 
-#org @sFrontierText_Worker_PreBattle_3
+#org @sFrontierText_Engineer_PreBattle_3
 Out of the way!\nI've got deliveries to make!
 
-#org @sFrontierText_Worker_PlayerWin_3
+#org @sFrontierText_Engineer_PlayerWin_3
 All the delivering I do every\nday[.]\pI've got deep muscle pain!
 
-#org @sFrontierText_Worker_PlayerLose_3
+#org @sFrontierText_Engineer_PlayerLose_3
 What? You want me to deliver you\nsomewhere, too?
 
 #org @sFrontierText_Fisherman_PreBattle_1
@@ -380,31 +357,58 @@ How I handle my fishing rod has\nnothing to do with battling[.]
 #org @sFrontierText_Fisherman_PlayerLose_3
 See it?\nSurprised, I bet!
 
-#org @sFrontierText_Roughneck_PreBattle_1
+#org @sFrontierText_SwimmerM_PreBattle_1
+Let's go for a swim right\nafter this?
+
+#org @sFrontierText_SwimmerM_PlayerWin_1
+Guess not.
+
+#org @sFrontierText_SwimmerM_PlayerLose_1
+You'll just drown!
+
+#org @sFrontierText_SwimmerM_PreBattle_2
+My body is ready.
+
+#org @sFrontierText_SwimmerM_PlayerWin_2
+I wasn't ready!
+
+#org @sFrontierText_SwimmerM_PlayerLose_2
+Apparently, you weren't.
+
+#org @sFrontierText_SwimmerM_PreBattle_3
+I love the water!\nHow about you?
+
+#org @sFrontierText_SwimmerM_PlayerWin_3
+Lets go swimming!
+
+#org @sFrontierText_SwimmerM_PlayerLose_3
+Now you're swimming with the\nfishes!
+
+#org @sFrontierText_CueBall_PreBattle_1
 When you get as good as me, you\ncan win easily, even if asleep.
 
-#org @sFrontierText_Roughneck_PlayerWin_1
+#org @sFrontierText_CueBall_PlayerWin_1
 Sssnore[.]
 
-#org @sFrontierText_Roughneck_PlayerLose_1
+#org @sFrontierText_CueBall_PlayerLose_1
 Zzz[.] Zzz[.]
 
-#org @sFrontierText_Roughneck_PreBattle_2
+#org @sFrontierText_CueBall_PreBattle_2
 Can't rightly say I much like\nbattling, I tell you.
 
-#org @sFrontierText_Roughneck_PlayerWin_2
+#org @sFrontierText_CueBall_PlayerWin_2
 Grr[.]\pI'm so angry I could cry[.]
 
-#org @sFrontierText_Roughneck_PlayerLose_2
+#org @sFrontierText_CueBall_PlayerLose_2
 I won, but[.]\nI'm still shaking[.]
 
-#org @sFrontierText_Roughneck_PreBattle_3
+#org @sFrontierText_CueBall_PreBattle_3
 If you want to run home to mommy,\nhere's your chance, punk!
 
-#org @sFrontierText_Roughneck_PlayerWin_3
+#org @sFrontierText_CueBall_PlayerWin_3
 Waah!\nI want my mommy!
 
-#org @sFrontierText_Roughneck_PlayerLose_3
+#org @sFrontierText_CueBall_PlayerLose_3
 Geheheh!\nI told you!
 
 #org @sFrontierText_Gambler_PreBattle_1
@@ -461,85 +465,112 @@ You just added to my worries[.]
 #org @sFrontierText_Beauty_PlayerLose_3
 Winning makes all my worries seem\ntrivial!
 
-#org @sFrontierText_Psychic_PreBattle_1
+#org @sFrontierText_SwimmerF_PreBattle_1
+Let's go for a swim right\nafter this?
+
+#org @sFrontierText_SwimmerF_PlayerWin_1
+Guess not.
+
+#org @sFrontierText_SwimmerF_PlayerLose_1
+You'll just drown!
+
+#org @sFrontierText_SwimmerF_PreBattle_2
+I'm ready.\nAre you?
+
+#org @sFrontierText_SwimmerF_PlayerWin_2
+I wasn't ready!
+
+#org @sFrontierText_SwimmerF_PlayerLose_2
+Apparently, you weren't.
+
+#org @sFrontierText_SwimmerF_PreBattle_3
+I love the water!\nHow about you?
+
+#org @sFrontierText_SwimmerF_PlayerWin_3
+Lets go swimming!
+
+#org @sFrontierText_SwimmerF_PlayerLose_3
+You're kinda cute when you\nlose!
+
+#org @sFrontierText_PsychicM_PreBattle_1
 Come to know defeat[.]\pLearn what it means to battle[.]
 
-#org @sFrontierText_Psychic_PlayerWin_1
+#org @sFrontierText_PsychicM_PlayerWin_1
 The defeated merely slink away[.]
 
-#org @sFrontierText_Psychic_PlayerLose_1
+#org @sFrontierText_PsychicM_PlayerLose_1
 I see you becoming ever more\npowerful[.]
 
-#org @sFrontierText_Psychic_PreBattle_2
+#org @sFrontierText_PsychicM_PreBattle_2
 Look into my eyes!
 
-#org @sFrontierText_Psychic_PlayerWin_2
+#org @sFrontierText_PsychicM_PlayerWin_2
 My power of suggestion failed to\ncharm you!
 
-#org @sFrontierText_Psychic_PlayerLose_2
+#org @sFrontierText_PsychicM_PlayerLose_2
 You fell under my spell!
 
-#org @sFrontierText_Psychic_PreBattle_3
+#org @sFrontierText_PsychicM_PreBattle_3
 [.]
 
-#org @sFrontierText_Psychic_PlayerWin_3
+#org @sFrontierText_PsychicM_PlayerWin_3
 I focused my mind in silence[.]
 
-#org @sFrontierText_Psychic_PlayerLose_3
+#org @sFrontierText_PsychicM_PlayerLose_3
 [.]Did it.
 
-#org @sFrontierText_Psychic_PreBattle_4
+#org @sFrontierText_PsychicF_PreBattle_1
 Close your eyes and count[.]\pSlow[.]\nSlower[.]
 
-#org @sFrontierText_Psychic_PlayerWin_4
+#org @sFrontierText_PsychicF_PlayerWin_1
 Tch[.]\pI thought I could lull you to\nsleep.
 
-#org @sFrontierText_Psychic_PlayerLose_4
+#org @sFrontierText_PsychicF_PlayerLose_1
 That was the countdown to my\nvictory!
 
-#org @sFrontierText_Psychic_PreBattle_5
+#org @sFrontierText_PsychicF_PreBattle_2
 My powers!\nThere's no trickery about them!
 
-#org @sFrontierText_Psychic_PlayerWin_5
+#org @sFrontierText_PsychicF_PlayerWin_2
 There really is no trickery[.]
 
-#org @sFrontierText_Psychic_PlayerLose_5
+#org @sFrontierText_PsychicF_PlayerLose_2
 This is psychic power!
 
-#org @sFrontierText_Psychic_PreBattle_6
+#org @sFrontierText_PsychicF_PreBattle_3
 Twirl, twirl, twirl[.]
 
-#org @sFrontierText_Psychic_PlayerWin_6
+#org @sFrontierText_PsychicF_PlayerWin_3
 Ooorgh[.]\pMy head's spinning[.]
 
-#org @sFrontierText_Psychic_PlayerLose_6
+#org @sFrontierText_PsychicF_PlayerLose_3
 Are you feeling dizzy?
 
-#org @sFrontierText_Guitarist_PreBattle_1
+#org @sFrontierText_Rocker_PreBattle_1
 Oh, yeah! I'm feeling it!\nI'm tuned in to your wavelength!
 
-#org @sFrontierText_Guitarist_PlayerWin_1
+#org @sFrontierText_Rocker_PlayerWin_1
 Tch! Losing threw off my rhythm!
 
-#org @sFrontierText_Guitarist_PlayerLose_1
+#org @sFrontierText_Rocker_PlayerLose_1
 Tadaaaah!
 
-#org @sFrontierText_Guitarist_PreBattle_2
+#org @sFrontierText_Rocker_PreBattle_2
 You should channel your feelings\ninto songs with sincerity, man.
 
-#org @sFrontierText_Guitarist_PlayerWin_2
+#org @sFrontierText_Rocker_PlayerWin_2
 The way I feel now is kind of\nfolksy.
 
-#org @sFrontierText_Guitarist_PlayerLose_2
+#org @sFrontierText_Rocker_PlayerLose_2
 The way I feel now?\nIt's rock!
 
-#org @sFrontierText_Guitarist_PreBattle_3
+#org @sFrontierText_Rocker_PreBattle_3
 Let's get this session on!
 
-#org @sFrontierText_Guitarist_PlayerWin_3
+#org @sFrontierText_Rocker_PlayerWin_3
 My dream of a world tour[.]\pIt seems so far away[.]
 
-#org @sFrontierText_Guitarist_PlayerLose_3
+#org @sFrontierText_Rocker_PlayerLose_3
 You're obviously short on\npractice.
 
 #org @sFrontierText_Juggler_PreBattle_1
@@ -569,38 +600,38 @@ Whew! That was a jolt!
 #org @sFrontierText_Juggler_PlayerLose_3
 Behold! You've beend dazzled by my\nprize Pok\emon!
 
-#org @sFrontierText_DragonTamer_PreBattle_1
-The credo of the Dragon Tamer!\nNumber one!
-
-#org @sFrontierText_DragonTamer_PlayerWin_1
-Even in defeat, roar!\nRoar with your dragon!
-
-#org @sFrontierText_DragonTamer_PlayerLose_1
-In victory, roar!\nRoar with your dragon!
-
-#org @sFrontierText_DragonTamer_PreBattle_2
-See it! Feel it! The ultimate\npower[.]\pProbably!
-
-#org @sFrontierText_DragonTamer_PlayerWin_2
-The title of the ultimate\nprobably!\pI confer it on you!
-
-#org @sFrontierText_DragonTamer_PlayerLose_2
-There is no defeat for me, the\nultimate[.]\pProbably!
-
-#org @sFrontierText_DragonTamer_PreBattle_3
-Mighty! Like a dragon!
-
-#org @sFrontierText_DragonTamer_PlayerWin_3
-[.]Urf[.]\pI wanted to be strong[.]
-
-#org @sFrontierText_DragonTamer_PlayerLose_3
-Strong, I am!
-
 #org @sFrontierText_Birdkeeper_PreBattle_1
 Fly, fly, fly!\nWe're going to rule this battle!
 
 #org @sFrontierText_Birdkeeper_PlayerWin_1
 We're gonna crash!
+
+#org @sFrontierText_Tamer_PreBattle_1
+Hiyah!\nObey me my minions!
+
+#org @sFrontierText_Tamer_PlayerWin_1
+Worthless!
+
+#org @sFrontierText_Tamer_PlayerLose_1
+Excellent.
+
+#org @sFrontierText_Tamer_PreBattle_2
+Let me show you what our\ntraining meant.
+
+#org @sFrontierText_Tamer_PlayerWin_2
+What's your method?
+
+#org @sFrontierText_Tamer_PlayerLose_2
+Don't feel too bad.\nIt was only natural.
+
+#org @sFrontierText_Tamer_PreBattle_3
+I'll whip you good!
+
+#org @sFrontierText_Tamer_PlayerWin_3
+They get a whippin'!
+
+#org @sFrontierText_Tamer_PlayerLose_3
+I told you!
 
 #org @sFrontierText_Birdkeeper_PlayerLose_1
 Zoom!
@@ -650,33 +681,6 @@ Please! Let me call you Master\nTrainer from now on!
 #org @sFrontierText_Blackbelt_PlayerLose_3
 Full power is how I win!
 
-#org @sFrontierText_BattleGirl_PreBattle_1
-My Pok\emon have black belt-level\nstrength!
-
-#org @sFrontierText_BattleGirl_PlayerWin_1
-I rarely meet anyone who's better\nthan me[.]
-
-#org @sFrontierText_BattleGirl_PlayerLose_1
-You've been humiliated!
-
-#org @sFrontierText_BattleGirl_PreBattle_2
-OK, OK!\nLet's be quick about this!
-
-#org @sFrontierText_BattleGirl_PlayerWin_2
-Yup! Good going!\nI like the way you battle!
-
-#org @sFrontierText_BattleGirl_PlayerLose_2
-Yeah! Let's do this again!\n[.]Oops. You're out of Pok\emon!
-
-#org @sFrontierText_BattleGirl_PreBattle_3
-Hiyah!\nThere's no holding anything back!
-
-#org @sFrontierText_BattleGirl_PlayerWin_3
-I[.] I concede! I think you're on a\ndifferent level[.]
-
-#org @sFrontierText_BattleGirl_PlayerLose_3
-Hiyah! I put you in your place!\nYou better appreciate it!
-
 #org @sFrontierText_Scientist_PreBattle_1
 It's the power of science!
 
@@ -704,67 +708,58 @@ I guess I lost.\nI can't see enough to tell.
 #org @sFrontierText_Scientist_PlayerLose_3
 I guess I won.\nI can't see enough to tell.
 
-#org @sFrontierText_Scientist_PreBattle_4
-Steadily and surely. You build\nfrom the little things up.
-
-#org @sFrontierText_Scientist_PlayerWin_4
-But I did things steadily and\nsurely[.]
-
-#org @sFrontierText_Scientist_PlayerLose_4
-Steadily and surely is how I won!
-
 #org @sFrontierText_Acetrainer_PreBattle_1
 You're no good at all.\nI'd better teach you.
 
-#org @sFrontierText_Acetrainer_PlayerWin_1
+#org @sFrontierText_AcetrainerM_PlayerWin_1
 You've got good skills. You tried\nhard, too. Excellent!
 
-#org @sFrontierText_Acetrainer_PlayerLose_1
+#org @sFrontierText_AcetrainerM_PlayerLose_1
 No, no, this won't do at all.\nUp on your feet. Never give up!
 
-#org @sFrontierText_Acetrainer_PreBattle_2
+#org @sFrontierText_AcetrainerM_PreBattle_2
 Why get all intellectual about\nthings?\pIf it's fun, why question it?
 
-#org @sFrontierText_Acetrainer_PlayerWin_2
+#org @sFrontierText_AcetrainerM_PlayerWin_2
 So I lost! If it's fun, it's cool!
 
-#org @sFrontierText_Acetrainer_PlayerLose_2
+#org @sFrontierText_AcetrainerM_PlayerLose_2
 See, I can still win.\nI don't see a problem!
 
-#org @sFrontierText_Acetrainer_PreBattle_3
+#org @sFrontierText_AcetrainerM_PreBattle_3
 My ace Pok\emon are on the go!
 
-#org @sFrontierText_Acetrainer_PlayerWin_3
+#org @sFrontierText_AcetrainerM_PlayerWin_3
 I like the sense you show!
 
-#org @sFrontierText_Acetrainer_PlayerLose_3
+#org @sFrontierText_AcetrainerM_PlayerLose_3
 You surprise me! Not too shabby!
 
-#org @sFrontierText_Acetrainer_PreBattle_4
+#org @sFrontierText_AcetrainerF_PreBattle_1
 OK, bring it!
 
-#org @sFrontierText_Acetrainer_PlayerWin_4
+#org @sFrontierText_AcetrainerF_PlayerWin_1
 Hoh! You are tough!\nGive me a rematch!
 
-#org @sFrontierText_Acetrainer_PlayerLose_4
+#org @sFrontierText_AcetrainerF_PlayerLose_1
 Hah! Too weak! Keep trying!
 
-#org @sFrontierText_Acetrainer_PreBattle_5
+#org @sFrontierText_AcetrainerF_PreBattle_2
 I've caught you now.\nGive up.
 
-#org @sFrontierText_Acetrainer_PlayerWin_5
+#org @sFrontierText_AcetrainerF_PlayerWin_2
 How could this be[.]?
 
-#org @sFrontierText_Acetrainer_PlayerLose_5
+#org @sFrontierText_AcetrainerF_PlayerLose_2
 You weren't bad.\nLet's meet again.
 
-#org @sFrontierText_Acetrainer_PreBattle_6
+#org @sFrontierText_AcetrainerF_PreBattle_3
 You need to be serious with me!
 
-#org @sFrontierText_Acetrainer_PlayerWin_6
+#org @sFrontierText_AcetrainerF_PlayerWin_3
 OK[.]\pQuite remarkable[.]
 
-#org @sFrontierText_Acetrainer_PlayerLose_6
+#org @sFrontierText_AcetrainerF_PlayerLose_3
 Oh? That's it?
 
 #org @sFrontierText_Gentleman_PreBattle_1
@@ -794,6 +789,60 @@ You're no ordinary trainer.
 #org @sFrontierText_Gentleman_PlayerLose_3
 You still got a long road,\nyoung one.
 
+#org @sFrontierText_Channeler_PreBattle_1
+I see dead people.
+
+#org @sFrontierText_Channeler_PlayerWin_1
+So you see as well!
+
+#org @sFrontierText_Channeler_PlayerLose_1
+You will soon perish.
+
+#org @sFrontierText_Channeler_PreBattle_2
+Kyaaaah!
+
+#org @sFrontierText_Channeler_PlayerWin_2
+Kwaaaaah!
+
+#org @sFrontierText_Channeler_PlayerLose_2
+Hikoraaw!
+
+#org @sFrontierText_Channeler_PreBattle_3
+I can sense your aura!
+
+#org @sFrontierText_Channeler_PlayerWin_3
+Oh dear!
+
+#org @sFrontierText_Channeler_PlayerLose_3
+Your soul left your body...
+
+#org @sFrontierText_CrushGirl_PreBattle_1
+My Pok\emon have black belt-level\nstrength!
+
+#org @sFrontierText_CrushGirl_PlayerWin_1
+I rarely meet anyone who's better\nthan me[.]
+
+#org @sFrontierText_CrushGirl_PlayerLose_1
+You've been humiliated!
+
+#org @sFrontierText_CrushGirl_PreBattle_2
+OK, OK!\nLet's be quick about this!
+
+#org @sFrontierText_CrushGirl_PlayerWin_2
+Yup! Good going!\nI like the way you battle!
+
+#org @sFrontierText_CrushGirl_PlayerLose_2
+Yeah! Let's do this again!\n[.]Oops. You're out of Pok\emon!
+
+#org @sFrontierText_CrushGirl_PreBattle_3
+Hiyah!\nThere's no holding anything back!
+
+#org @sFrontierText_CrushGirl_PlayerWin_3
+I[.] I concede! I think you're on a\ndifferent level[.]
+
+#org @sFrontierText_CrushGirl_PlayerLose_3
+Hiyah! I put you in your place!\nYou better appreciate it!
+
 #org @sFrontierText_Tuber_PreBattle_1
 I like rivers more than the sea.\nWhich do you prefer?
 
@@ -821,139 +870,112 @@ I[.] I'm not lying!
 #org @sFrontierText_Tuber_PlayerLose_3
 It[.] It's true!
 
-#org @sFrontierText_Tuber_PreBattle_4
-The beach sand is so hot!\pIt makes me go, "Ouch, ouch,\nouch!\"
-
-#org @sFrontierText_Tuber_PlayerWin_4
-Ouch, ouch, ouch!
-
-#org @sFrontierText_Tuber_PlayerLose_4
-I love the sea!
-
-#org @sFrontierText_Tuber_PreBattle_5
-I'm a girl in love with her inner\ntube! Nice to meet you!
-
-#org @sFrontierText_Tuber_PlayerWin_5
-Good-bye!\pI'm a girl in love with her inner\ntube!
-
-#org @sFrontierText_Tuber_PlayerLose_5
-Thank you!\pI'm a girl in love with her inner\ntube!
-
-#org @sFrontierText_Tuber_PreBattle_6
-It's not like I can't swim.\nI just like my inner tube.
-
-#org @sFrontierText_Tuber_PlayerWin_6
-Flip, flop!
-
-#org @sFrontierText_Tuber_PlayerLose_6
-Splish, splash!
-
-#org @sFrontierText_Pkmnbreeder_PreBattle_1
+#org @sFrontierText_PkmnbreederM_PreBattle_1
 Let me introduce to you my\ncherished partners!
 
-#org @sFrontierText_Pkmnbreeder_PlayerWin_1
+#org @sFrontierText_PkmnbreederM_PlayerWin_1
 The effort you put in is what's\nimportant.
 
-#org @sFrontierText_Pkmnbreeder_PlayerLose_1
+#org @sFrontierText_PkmnbreederM_PlayerLose_1
 How did you find them?\nMy cherished partners.
 
-#org @sFrontierText_Pkmnbreeder_PreBattle_2
+#org @sFrontierText_PkmnbreederM_PreBattle_2
 Raising Pok\emon takes a lot of\nhonest effort!
 
-#org @sFrontierText_Pkmnbreeder_PlayerWin_2
+#org @sFrontierText_PkmnbreederM_PlayerWin_2
 Urgwah! Look what you've done to\nmy Pok\emon!
 
-#org @sFrontierText_Pkmnbreeder_PlayerLose_2
+#org @sFrontierText_PkmnbreederM_PlayerLose_2
 Yahaha! I've had a hands-on time\nraising these Pok\emon!
 
-#org @sFrontierText_Pkmnbreeder_PreBattle_3
+#org @sFrontierText_PkmnbreederM_PreBattle_3
 I live among Pok\emon.
 
-#org @sFrontierText_Pkmnbreeder_PlayerWin_3
+#org @sFrontierText_PkmnbreederM_PlayerWin_3
 I'm just not much of a battler.
 
-#org @sFrontierText_Pkmnbreeder_PlayerLose_3
+#org @sFrontierText_PkmnbreederM_PlayerLose_3
 I've never been much of a battler,\nbut[.]
 
-#org @sFrontierText_Pkmnbreeder_PreBattle_4
+#org @sFrontierText_PkmnbreederF_PreBattle_1
 I'll check how your Pok\emon have\ngrown for you.
 
-#org @sFrontierText_Pkmnbreeder_PlayerWin_4
+#org @sFrontierText_PkmnbreederF_PlayerWin_1
 This is impressive!\pYou've raised your Pok\emon really\nthoroughly.
 
-#org @sFrontierText_Pkmnbreeder_PlayerLose_4
+#org @sFrontierText_PkmnbreederF_PlayerLose_1
 Not good enough!\pYour training style's not up to\npar.
 
-#org @sFrontierText_Pkmnbreeder_PreBattle_5
+#org @sFrontierText_PkmnbreederF_PreBattle_2
 It's no good to be too harsh[.]\nBut pampering is also out[.]
 
-#org @sFrontierText_Pkmnbreeder_PlayerWin_5
+#org @sFrontierText_PkmnbreederF_PlayerWin_2
 Being a Pok\emon Breeder is a deep\nand complex challenge.
 
-#org @sFrontierText_Pkmnbreeder_PlayerLose_5
+#org @sFrontierText_PkmnbreederF_PlayerLose_2
 Balance is key for raising good\nPok\emon.
 
-#org @sFrontierText_Pkmnbreeder_PreBattle_6
+#org @sFrontierText_PkmnbreederF_PreBattle_3
 I specialize in raising cute\nPok\emon!
 
-#org @sFrontierText_Pkmnbreeder_PlayerWin_6
+#org @sFrontierText_PkmnbreederF_PlayerWin_3
 Oh, but they're so cute!
 
-#org @sFrontierText_Pkmnbreeder_PlayerLose_6
+#org @sFrontierText_PkmnbreederF_PlayerLose_3
 Cute, yet strong! Right?
 
-#org @sFrontierText_Pkmnranger_PreBattle_1
+#org @sFrontierText_PkmnrangerM_PreBattle_1
 My love of nature and Pok\emon made\na Ranger out of me!
 
-#org @sFrontierText_Pkmnranger_PlayerWin_1
+#org @sFrontierText_PkmnrangerM_PlayerWin_1
 Ooh[.] I still love to\nbattle, too.
 
-#org @sFrontierText_Pkmnranger_PlayerLose_1
+#org @sFrontierText_PkmnrangerM_PlayerLose_1
 I love to battle, too!
 
-#org @sFrontierText_Pkmnranger_PreBattle_2
+#org @sFrontierText_PkmnrangerM_PreBattle_2
 Hi! Have you ever considered a\ncareer as a Ranger?
 
-#org @sFrontierText_Pkmnranger_PlayerWin_2
+#org @sFrontierText_PkmnrangerM_PlayerWin_2
 Yes, you've got the mettle.\nBeing a Ranger is a lot of fun!
 
-#org @sFrontierText_Pkmnranger_PlayerLose_2
+#org @sFrontierText_PkmnrangerM_PlayerLose_2
 Well, you might not make it at\nyour skill level.
 
-#org @sFrontierText_Pkmnranger_PreBattle_3
+#org @sFrontierText_PkmnrangerM_PreBattle_3
 Win or lose, a battle happens only\nonce!
 
-#org @sFrontierText_Pkmnranger_PlayerWin_3
+#org @sFrontierText_PkmnrangerM_PlayerWin_3
 I have no regrets!
 
-#org @sFrontierText_Pkmnranger_PlayerLose_3
+#org @sFrontierText_PkmnrangerM_PlayerLose_3
 Do you have any regret?
 
-#org @sFrontierText_Pkmnranger_PreBattle_4
+#org @sFrontierText_PkmnrangerF_PreBattle_1
 It's my sworn duty to protect\nnature and the Pok\emon in it.
 
-#org @sFrontierText_Pkmnranger_PlayerWin_4
+#org @sFrontierText_PkmnrangerF_PlayerWin_1
 It's a challenging life, but\nthere's a lot to enjoy every day.
 
-#org @sFrontierText_Pkmnranger_PlayerLose_4
+#org @sFrontierText_PkmnrangerF_PlayerLose_1
 It's a rewarding career.\nHow does it sound to you?
 
-#org @sFrontierText_Pkmnranger_PreBattle_5
+#org @sFrontierText_PkmnrangerF_PreBattle_2
 The power of nature!\nLet me show you!
 
-#org @sFrontierText_Pkmnranger_PlayerWin_5
+#org @sFrontierText_PkmnrangerF_PlayerWin_2
 Protect the natural environment[.]
 
-#org @sFrontierText_Pkmnranger_PlayerLose_5
+#org @sFrontierText_PkmnrangerF_PlayerLose_2
 This is the power of nature!
 
-#org @sFrontierText_Pkmnranger_PreBattle_6
+#org @sFrontierText_PkmnrangerF_PreBattle_3
 I didn't sleep while trying to\ncome up with this new strategy!
 
-#org @sFrontierText_Pkmnranger_PlayerWin_6
+#org @sFrontierText_PkmnrangerF_PlayerWin_3
 Oh, but[.] I really needed to\nsleep tonight[.]
 
-#org @sFrontierText_Pkmnranger_PlayerLose_6
+#org @sFrontierText_PkmnrangerF_PlayerLose_3
 My strategy worked!
 
 #org @sFrontierText_Aromalady_PreBattle_1
@@ -1010,58 +1032,31 @@ Maybe it's time we hit the road\nagain[.]
 #org @sFrontierText_Ruinmaniac_PlayerLose_3
 What do you say?\nPretty tough, right?
 
-#org @sFrontierText_Richboy_PreBattle_1
-My father's one of the richest\npeople in Borrius.
-
-#org @sFrontierText_Richboy_PlayerWin_1
-My father will hear about this!
-
-#org @sFrontierText_Richboy_PlayerLose_1
-Money speaks louder than\ndetermination, I see.
-
-#org @sFrontierText_Richboy_PreBattle_2
-My family supported the building\nof this place, so I get the\lbest seats at all the shows.
-
-#org @sFrontierText_Richboy_PlayerWin_2
-I should have just watched[.]
-
-#org @sFrontierText_Richboy_PlayerLose_2
-Well, of course. I'm rich.
-
-#org @sFrontierText_Richboy_PreBattle_3
-Ultimately, Pok\emon is just\nanother brand.\pYou know who'll win, right?
-
-#org @sFrontierText_Richboy_PlayerWin_3
-But how[.] My[.]\nThe Pok\emon I've invested[.]
-
-#org @sFrontierText_Richboy_PlayerLose_3
-I'm not interested in what was an\ninevitable result.
-
-#org @sFrontierText_Richgirl_PreBattle_1
+#org @sFrontierText_Lady_PreBattle_1
 There isn't anything that I can't\nbuy. Money can buy battles!
 
-#org @sFrontierText_Richgirl_PlayerWin_1
+#org @sFrontierText_Lady_PlayerWin_1
 I'll give you my allowance if\nyou'll let me win.
 
-#org @sFrontierText_Richgirl_PlayerLose_1
+#org @sFrontierText_Lady_PlayerLose_1
 There's nothing that money can't\nbuy.
 
-#org @sFrontierText_Richgirl_PreBattle_2
+#org @sFrontierText_Lady_PreBattle_2
 It's fine, fine.\nNo need to say a word.
 
-#org @sFrontierText_Richgirl_PlayerWin_2
+#org @sFrontierText_Lady_PlayerWin_2
 It's fine, fine.\nNo need to say a word.
 
-#org @sFrontierText_Richgirl_PlayerLose_2
+#org @sFrontierText_Lady_PlayerLose_2
 It's fine, fine.\nYou tried your best, I know.
 
-#org @sFrontierText_Richgirl_PreBattle_3
+#org @sFrontierText_Lady_PreBattle_3
 Hmm[.]\pSo, you're good, huh?
 
-#org @sFrontierText_Richgirl_PlayerWin_3
+#org @sFrontierText_Lady_PlayerWin_3
 Hmm[.]\pSo, you are good.\nHmm[.]
 
-#org @sFrontierText_Richgirl_PlayerLose_3
+#org @sFrontierText_Lady_PlayerLose_3
 Hmm[.]\pYou're no big deal. Hmm?
 
 #org @sFrontierText_Painter_PreBattle_1
@@ -1091,300 +1086,294 @@ Aargh! I got some paint in\nmy eyes!
 #org @sFrontierText_Painter_PlayerLose_3
 I guess a style change from city\nskylines to battles was warranted!
 
-#org @sFrontierText_Waiter_PreBattle_1
-May I take your order, please?
+#org @sFrontierText_HexManiac_PreBattle_1
+I see dead people.
 
-#org @sFrontierText_Waiter_PlayerWin_1
-Ah, an excellent choice.\nA win served fresh.
+#org @sFrontierText_HexManiac_PlayerWin_1
+So you see as well!
 
-#org @sFrontierText_Waiter_PlayerLose_1
-Ah, a fine choice.\nOne loss served fresh.
+#org @sFrontierText_HexManiac_PlayerLose_1
+You will soon perish.
 
-#org @sFrontierText_Waiter_PreBattle_2
-For battles and order taking,\nspeed is essential!
+#org @sFrontierText_HexManiac_PreBattle_2
+Kyaaaah!
 
-#org @sFrontierText_Waiter_PlayerWin_2
-Food is like battling.\nServe it while it's hot!
+#org @sFrontierText_HexManiac_PlayerWin_2
+Kwaaaaah!
 
-#org @sFrontierText_Waiter_PlayerLose_2
-Like, chop-chop!\nYou got served.
+#org @sFrontierText_HexManiac_PlayerLose_2
+Hikoraaw!
 
-#org @sFrontierText_Waiter_PreBattle_3
-Ah, welcome!\nI'm your server today!
+#org @sFrontierText_HexManiac_PreBattle_3
+I can sense your aura!
 
-#org @sFrontierText_Waiter_PlayerWin_3
-Thank you so much!
+#org @sFrontierText_HexManiac_PlayerWin_3
+Oh dear!
 
-#org @sFrontierText_Waiter_PlayerLose_3
-Would you care to settle your\nbill?
+#org @sFrontierText_HexManiac_PlayerLose_3
+Your soul left your body...
 
-#org @sFrontierText_Waitress_PreBattle_1
-My job is about serving others.\nBut don't expect me to serve here.
+#org @sFrontierText_Richboy_PreBattle_1
+My father's one of the richest\npeople in Kanto.
 
-#org @sFrontierText_Waitress_PlayerWin_1
-Why couldn't you serve me?\nYou won't make friends that way!
+#org @sFrontierText_Richboy_PlayerWin_1
+My father will hear about this!
 
-#org @sFrontierText_Waitress_PlayerLose_1
-How may I serve you?
+#org @sFrontierText_Richboy_PlayerLose_1
+Money speaks louder than\ndetermination, I see.
 
-#org @sFrontierText_Waitress_PreBattle_2
-What I really hoped to become was\na cook.
+#org @sFrontierText_Richboy_PreBattle_2
+My family supported the building\nof this place, so I get the\lbest seats at all the shows.
 
-#org @sFrontierText_Waitress_PlayerWin_2
-I just find it hard talking to\nstrangers.
+#org @sFrontierText_Richboy_PlayerWin_2
+I should have just watched[.]
 
-#org @sFrontierText_Waitress_PlayerLose_2
-I don't mind this job now, mind\nyou.
+#org @sFrontierText_Richboy_PlayerLose_2
+Well, of course. I'm rich.
 
-#org @sFrontierText_Waitress_PreBattle_3
-I love cute customers like you!\nI'll serve you right!
+#org @sFrontierText_Richboy_PreBattle_3
+Ultimately, Pok\emon is just\nanother brand.\pYou know who'll win, right?
 
-#org @sFrontierText_Waitress_PlayerWin_3
-Oh, but[.] I'm not done serving\nyou.
+#org @sFrontierText_Richboy_PlayerWin_3
+But how[.] My[.]\nThe Pok\emon I've invested[.]
 
-#org @sFrontierText_Waitress_PlayerLose_3
-Well, were you happy with the way\nI served you?
+#org @sFrontierText_Richboy_PlayerLose_3
+I'm not interested in what was an\ninevitable result.
 
-#org @sFrontierText_Idol_PreBattle_1
-You can shake hands with me!\pIt would be quite the honour for\nyou!
+#org @sFrontierText_Kindler_PreBattle_1
+You should aspire to the Kindler's\nway of life!
 
-#org @sFrontierText_Idol_PlayerWin_1
-My management team will have\nsomething to say about this!
+#org @sFrontierText_Kindler_PlayerWin_1
+Now, come on now!\nYou should look up to the way I\llive!
 
-#org @sFrontierText_Idol_PlayerLose_1
-If you'd won, I would have even\ngiven you my autograph!
+#org @sFrontierText_Kindler_PlayerLose_1
+You see? You love my lifestyle,\ndon't you?
 
-#org @sFrontierText_Idol_PreBattle_2
-Thanks for supporting me!
+#org @sFrontierText_Kindler_PreBattle_2
+Howdy! It's a long way away from\nthe mountains here!
 
-#org @sFrontierText_Idol_PlayerWin_2
-What a horrible way to treat an\nidol[.]
+#org @sFrontierText_Kindler_PlayerWin_2
+I got burned!
 
-#org @sFrontierText_Idol_PlayerLose_2
-Oh? You're not my fan?
+#org @sFrontierText_Kindler_PlayerLose_2
+Hahah! Keep it coming!
 
-#org @sFrontierText_Idol_PreBattle_3
-Watch me! All eyes on me!
+#org @sFrontierText_Kindler_PreBattle_3
+Let's be good sports about this!\nBig smile!
 
-#org @sFrontierText_Idol_PlayerWin_3
-I became an idol because I wanted\neveryone to see me!
+#org @sFrontierText_Kindler_PlayerWin_3
+I'm cheerful even in defeat!\nAhaha!\lAhaha!
 
-#org @sFrontierText_Idol_PlayerLose_3
-Ooh[.] This is what I live for[.]
+#org @sFrontierText_Kindler_PlayerLose_3
+Ahaha!\nAhaha!\lCome on, you laugh too!
 
-#org @sFrontierText_Pokekid_PreBattle_1
-A battle, you say?\nI'm never losing to you!
+#org @sFrontierText_BugManiac_PreBattle_1
+The way of the Bug Maniac!\nBear witness to it!
 
-#org @sFrontierText_Pokekid_PlayerWin_1
-Urk[.] We lost[.]
+#org @sFrontierText_BugManiac_PlayerWin_1
+All hail Bug Maniacs!
 
-#org @sFrontierText_Pokekid_PlayerLose_1
-Yeehah! Yippee!\nI won, I won!
+#org @sFrontierText_BugManiac_PlayerLose_1
+This is the way of the Bug\nManiac!
 
-#org @sFrontierText_Pokekid_PreBattle_2
-Kneel down before me!
+#org @sFrontierText_BugManiac_PreBattle_2
+I'll snag you with my net!
 
-#org @sFrontierText_Pokekid_PlayerWin_2
-My mommy always says that to my\ndaddy!
+#org @sFrontierText_BugManiac_PlayerWin_2
+Hey! Don't run away!
 
-#org @sFrontierText_Pokekid_PlayerLose_2
-Hee hee hee.\nJust what I wanted!
+#org @sFrontierText_BugManiac_PlayerLose_2
+It's in the bag!
 
-#org @sFrontierText_Pokekid_PreBattle_3
-My Pok\emon are cute,\nbut they're not very tough!
+#org @sFrontierText_BugManiac_PreBattle_3
+I catch and raise all sorts of Bug\nPok\emon.
 
-#org @sFrontierText_Pokekid_PlayerWin_3
-It's OK. I like my Pok\emon.\nThat's all that matters.
+#org @sFrontierText_BugManiac_PlayerWin_3
+I need to raise my Pok\emon some\nmore!
 
-#org @sFrontierText_Pokekid_PlayerLose_3
-Oh? We won? Seriously?
+#org @sFrontierText_BugManiac_PlayerLose_3
+See? I've raised them pretty good.
 
-#org @sFrontierText_Jogger_PreBattle_1
+#org @sFrontierText_PokefanM_PreBattle_1
 Ready, start!
 
-#org @sFrontierText_Jogger_PlayerWin_1
+#org @sFrontierText_PokefanM_PlayerWin_1
 Waah! Wait for me!
 
-#org @sFrontierText_Jogger_PlayerLose_1
-First across the finish line!
+#org @sFrontierText_PokefanM_PlayerLose_1
+Hahahaha!
 
-#org @sFrontierText_Jogger_PreBattle_2
-I run a marathon every morning!\nIt's great!
+#org @sFrontierText_PokefanM_PreBattle_2
+I love playing around!
 
-#org @sFrontierText_Jogger_PlayerWin_2
-So I lost! I can still run great\nmarathons!
+#org @sFrontierText_PokefanM_PlayerWin_2
+So I lost!
 
-#org @sFrontierText_Jogger_PlayerLose_2
-My buff physique makes for easy\nwins!
+#org @sFrontierText_PokefanM_PlayerLose_2
+An easy win!
 
-#org @sFrontierText_Jogger_PreBattle_3
-I'll run on the spot while battling\nfor the good of my health.
+#org @sFrontierText_PokefanM_PreBattle_3
+Mine are cuter than yours!
 
-#org @sFrontierText_Jogger_PlayerWin_3
-Gasp! My ankle!\nI rolled my ankle!
+#org @sFrontierText_PokefanM_PlayerWin_3
+Gasp!
 
-#org @sFrontierText_Jogger_PlayerLose_3
-Run! Faster!
+#org @sFrontierText_PokefanM_PlayerLose_3
+And more powerful too!
 
-#org @sFrontierText_Rancher_PreBattle_1
+#org @sFrontierText_PokefanF_PreBattle_1
+Oh my, how cute.
+
+#org @sFrontierText_PokefanF_PlayerWin_1
+Waah! Wait for me!
+
+#org @sFrontierText_PokefanF_PlayerLose_1
+Hahahaha!
+
+#org @sFrontierText_PokefanF_PreBattle_2
+I love playing around!
+
+#org @sFrontierText_PokefanF_PlayerWin_2
+So I lost!
+
+#org @sFrontierText_PokefanF_PlayerLose_2
+An easy win!
+
+#org @sFrontierText_PokefanF_PreBattle_3
+Mine are cuter than yours!
+
+#org @sFrontierText_PokefanF_PlayerWin_3
+Gasp!
+
+#org @sFrontierText_PokefanF_PlayerLose_3
+And more powerful too!
+
+#org @sFrontierText_ExpertM_PreBattle_1
+A battle, you say?\nI'm never losing to you!
+
+#org @sFrontierText_ExpertM_PlayerWin_1
+Urk[.] We lost[.]
+
+#org @sFrontierText_ExpertM_PlayerLose_1
+Excellent!
+
+#org @sFrontierText_ExpertM_PreBattle_2
+I'll whoop you good.
+
+#org @sFrontierText_ExpertM_PlayerWin_2
+You whooped me good.
+
+#org @sFrontierText_ExpertM_PlayerLose_2
+Hee hee hee.\nJust what I wanted!
+
+#org @sFrontierText_ExpertM_PreBattle_3
+My Pok\emon are quite powerful.
+
+#org @sFrontierText_ExpertM_PlayerWin_3
+Well, it was a good match.
+
+#org @sFrontierText_ExpertM_PlayerLose_3
+Excellent.
+
+#org @sFrontierText_ExpertF_PreBattle_1
+A battle, you say?\nI'm never losing to you!
+
+#org @sFrontierText_ExpertF_PlayerWin_1
+Urk[.] We lost[.]
+
+#org @sFrontierText_ExpertF_PlayerLose_1
+Excellent!
+
+#org @sFrontierText_ExpertF_PreBattle_2
+I'll whoop you good.
+
+#org @sFrontierText_ExpertF_PlayerWin_2
+You whooped me good.
+
+#org @sFrontierText_ExpertF_PlayerLose_2
+Hee hee hee.\nJust what I wanted!
+
+#org @sFrontierText_ExpertF_PreBattle_3
+My Pok\emon are quite powerful.
+
+#org @sFrontierText_ExpertF_PlayerWin_3
+Well, it was a good match.
+
+#org @sFrontierText_ExpertF_PlayerLose_3
+Excellent.
+
+#org @sFrontierText_DragonTamer_PreBattle_1
+The credo of the Dragon Tamer!\nNumber one!
+
+#org @sFrontierText_DragonTamer_PlayerWin_1
+Even in defeat, roar!\nRoar with your dragon!
+
+#org @sFrontierText_DragonTamer_PlayerLose_1
+In victory, roar!\nRoar with your dragon!
+
+#org @sFrontierText_DragonTamer_PreBattle_2
+See it! Feel it! The ultimate\npower[.]\pProbably!
+
+#org @sFrontierText_DragonTamer_PlayerWin_2
+The title of the ultimate\nprobably!\pI confer it on you!
+
+#org @sFrontierText_DragonTamer_PlayerLose_2
+There is no defeat for me, the\nultimate[.]\pProbably!
+
+#org @sFrontierText_DragonTamer_PreBattle_3
+Mighty! Like a dragon!
+
+#org @sFrontierText_DragonTamer_PlayerWin_3
+[.]Urf[.]\pI wanted to be strong[.]
+
+#org @sFrontierText_DragonTamer_PlayerLose_3
+Strong, I am!
+
+#org @sFrontierText_Collector_PreBattle_1
 Little boy? Little girl?\nDoesn't matter which.\pLet's do this!
 
-#org @sFrontierText_Rancher_PlayerWin_1
+#org @sFrontierText_Collector_PlayerWin_1
 Little boy? Little girl?\pDoesn't matter which, but you're\nsure tough!
 
-#org @sFrontierText_Rancher_PlayerLose_1
+#org @sFrontierText_Collector_PlayerLose_1
 Little boy? Little girl?\nDoesn't matter which, but sorry.
 
-#org @sFrontierText_Rancher_PreBattle_2
-All right, take a run at me!\nMy barrel chest can take it!
+#org @sFrontierText_Collector_PreBattle_2
+You're going down!
 
-#org @sFrontierText_Rancher_PlayerWin_2
-Ooh[.] Ow[.] That hurt[.]\pIt's like you broke my barrel\nchest[.]
+#org @sFrontierText_Collector_PlayerWin_2
+My collection!?
 
-#org @sFrontierText_Rancher_PlayerLose_2
-What? That's all you've got?\nYou can take a harder run at me!
+#org @sFrontierText_Collector_PlayerLose_2
+What? That's all you've got?
 
-#org @sFrontierText_Rancher_PreBattle_3
-My favorite drink is Moomoo Milk.\nGot some?
+#org @sFrontierText_Collector_PreBattle_3
+I love Gardevoir!
 
-#org @sFrontierText_Rancher_PlayerWin_3
-Gwaah! Moomoo Milk!\nBring me some Moomoo Milk!
+#org @sFrontierText_Collector_PlayerWin_3
+We weren't strong enough!
 
-#org @sFrontierText_Rancher_PlayerLose_3
-Wahaha! I get the win!\nLet's celebrate over some milk!
-
-#org @sFrontierText_Rancher_PreBattle_4
-Do your best! My beloved children!
-
-#org @sFrontierText_Rancher_PlayerWin_4
-My Pok\emon are my beloved family.
-
-#org @sFrontierText_Rancher_PlayerLose_4
-Wahaha! Well done!\nMama's proud of you!
-
-#org @sFrontierText_Rancher_PreBattle_5
-I'm not getting any younger.\nI can't overexert myself.
-
-#org @sFrontierText_Rancher_PlayerWin_5
-Oh, you're good and young.\nThere's a sparkle about you.
-
-#org @sFrontierText_Rancher_PlayerLose_5
-What I lack in youth, I make up\nfor in experience.
-
-#org @sFrontierText_Rancher_PreBattle_6
-Smell that?\pThat's the smell of hay clinging\nto my body.
-
-#org @sFrontierText_Rancher_PlayerWin_6
-This smell I have is the sweet\nscent of hay that Pok\emon surely\llove.
-
-#org @sFrontierText_Rancher_PlayerLose_6
-Whoa!
+#org @sFrontierText_Collector_PlayerLose_3
+Wahaha! I get the win!
 
 //Frontier Brains
-#org @sFrontierText_Pat_PlayerWin
-Amazing!\pYou still won, even though the\nPokemon you used were not your own!
+#org @sFrontierText_Egypt_PreBattle
+I am the owner of the Battle Tower.\nI, Egypt, accept your challenge!
 
-#org @sFrontierText_Pat_PlayerLose
-It's harder to win when you're not\nused to your Pok\emon, eh?
+#org @sFrontierText_Egypt_PlayerWin
+Congratulations!
 
-#org @sFrontierText_Pablo_PlayerWin
-Huh.\pWell whadya know[.]\pSeems like your team is pretty well\nthought out.
-
-#org @sFrontierText_Pablo_PlayerLose
-Why am I not surprised[.]\pListen up, kid!\nAnd listen up well!\pYou need a team that can handle\nitself in any situation!\pKeep that in mind for next time!
-
-#org @sFrontierText_Paula_PlayerWin
-Bravo! Bravo! Wonderful!\nYou're a true rising star!
-
-#org @sFrontierText_Paula_PlayerLose
-Well, the show must go on\pEven if our young star is not at\nthe forefront[.]
+#org @sFrontierText_Egypt_PlayerLose
+I'm looking forward to battling you\nagain in the future!
 
 //Special Trainers
 
-#org @sFrontierText_Skeli_PreBattle
-Hey, there!\pI'm Skeli, one of the developers of\nPok\emon Unbound.\pI'm glad you took the time to come\nbattle here!\pNow, let's have a fun time!
+#org @sFrontierText_May_PreBattle
+Hello. My name is May!\nI came from Hoenn looking for a challenge!
 
-#org @sFrontierText_Skeli_PlayerWin
-Alright!\nThat was fun!
+#org @sFrontierText_May_PlayerWin
+Wow! You're good!
 
-#org @sFrontierText_Skeli_PlayerLose
-I'm looking forward to battling you\nagain in the future!
+#org @sFrontierText_May_PlayerLose
+Better luck next time!\nHehehe...
 
-#org @sFrontierText_Golche_PreBattle
-Hey, there!\nI'm Golche!\pThe strategies of the Trainers you\nfaced?\pI helped make them!\pLet's see what you can do against\nmy strategy!
-
-#org @sFrontierText_Golche_PlayerWin
-Hmm[.]\pLooks like I've got some refining\nto do[.]
-
-#org @sFrontierText_Golche_PlayerLose
-What a fun battle!\pI look forward to battling you\nagain with some new tricks!
-
-#org @sFrontierText_Gail_PreBattle
-Don't think it'll be easy to beat\nme!\pYou're facing the legacy Pok\emon\nTrainer[.] Thanasis!
-
-#org @sFrontierText_Gail_PlayerWin
-I have to admit, you really are\nsomething special.
-
-#org @sFrontierText_Gail_PlayerLose
-It seems you're not ready to face\nme just yet!
-
-#org @sFrontierText_Lixdel_PreBattle
-What's up?\nI'm Lixdel!\pI created a large chunk of those\nbeautiful move animations you've\lbeen seeing.\pNow, prepare for a flurry of those\nanimations!
-
-#org @sFrontierText_Lixdel_PlayerWin
-That battle was almost as beautiful\nas the animations!
-
-#org @sFrontierText_Lixdel_PlayerLose
-Nice!\pThat battle was close to being as\nbeautiful as the animations!
-
-#org @sFrontierText_Cynthia_PreBattle
-I, Cynthia, accept your challenge!\nThere won't be any letup from me!
-
-#org @sFrontierText_Cynthia_PlayerWin
-No matter how fun the battle is, it\nwill always end sometime[.]
-
-#org @sFrontierText_Cynthia_PlayerLose
-Even if you lose, never lose your\nlove of Pok\emon.
-
-#org @sFrontierText_Red_PreBattle
-#org @sFrontierText_Red_PlayerWin
-#org @sFrontierText_Red_PlayerLose
-[.]
-
-#org @sFrontierText_BigMo_PreBattle
-Ha ha ha ha!\nLook who I ran into again!\p[PLAYER]!\pI've been looking forward to\nanother battle with you!\pNow, let's see what you can do to\nthe kingpin of Antisis City!
-
-#org @sFrontierText_BigMo_PlayerWin
-Ha ha ha ha!\pThey should start calling you\nBig [PLAYER_NAME]!
-
-#org @sFrontierText_BigMo_PlayerLose
-Ha ha ha ha!\pLooks like I'm bigger an' better!
-
-#org @sFrontierText_Galavan_PreBattle
-Yo, wazzup, [PLAYER]?\pHowzit goin' these days?\pI'm sure ya had no problem makin'\nyour way to this point.\pWell, it's time to fret, 'cause I'm\nabout to end your streak!\pHa ha ha!
-
-#org @sFrontierText_Galavan_PlayerWin
-Whoa, ya sure showed me how to\nbattle! Ha ha ha!
-
-#org @sFrontierText_Galavan_PlayerLose
-And you weren't even at any\ndisadvantage! Ha ha ha!
-
-#org @sFrontierText_Candice_PreBattle
-You're the opponent of Candice?\pSure thing!\nI was waiting for someone tough!\pBut I should tell you, I'm tough,\nbecause I know how to focus.\pPok\emon, fashion, romance[.]\nIt's all about focus!\pI'll show you just what I mean.\pGet ready to lose!
-
-#org @sFrontierText_Candice_PlayerWin
-You're mighty!\nYou're worthy of lots of respect.
-
-#org @sFrontierText_Candice_PlayerLose
-I sensed your will to win, but I\ndon't lose!
-
-#org @sFrontierText_Giovanni_PreBattle
-For your insolence, you will feel\na world of pain!
-
-#org @sFrontierText_Giovanni_PlayerWin
-What? Me, lose?!
-
-#org @sFrontierText_Giovanni_PlayerLose
-Ha!\nThat was a truly intense fight!
-
-#endif
