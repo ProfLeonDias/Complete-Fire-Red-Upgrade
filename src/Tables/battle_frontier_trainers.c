@@ -1961,34 +1961,6 @@ const struct MultiBattleTowerTrainer gFrontierMultiBattleTrainers[] =
 };
 
 const u8 gNumFrontierMultiTrainers = NELEMS(gFrontierMultiBattleTrainers);
-
-#else
-	const struct BattleTowerTrainer gTowerTrainers[] =
-	{
-		{
-			.owNum = 			EVENT_OBJ_GFX_YOUNGSTER,
-			.trainerClass = 	CLASS_YOUNGSTER,
-			.trainerSprite = 	TRAINER_PIC_YOUNGSTER,
-			.gender = 			BATTLE_FACILITY_MALE,
-			.preBattleText = 	sFrontierText_Youngster_PreBattle_1,
-			.playerWinText = 	sFrontierText_Youngster_PlayerWin_1,
-			.playerLoseText = 	sFrontierText_Youngster_PlayerLose_1,
-		},
-	};
-
-	const struct SpecialBattleFrontierTrainer gSpecialTowerTrainers[] =
-	{
-	};
-
-	const struct SpecialBattleFrontierTrainer gFrontierBrains[] =
-	{
-	};
-
-	const struct MultiBattleTowerTrainer gFrontierMultiBattleTrainers[] =
-	{
-	};
-
-	const u8 gNumFrontierMultiTrainers = NELEMS(gFrontierMultiBattleTrainers);
 #endif
 
 const u16 gNumTowerTrainers = NELEMS(gTowerTrainers);
