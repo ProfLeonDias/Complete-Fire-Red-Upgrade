@@ -603,75 +603,24 @@ Madeline
 #ifdef UNBOUND
 
 //Special Trainers
-#org @sTrainerName_Palmer
-Palmer
+#org @sTrainerName_Egypt
+Egypt
 
-#org @sTrainerName_Pat
-Patroz
-
-#org @sTrainerName_Pablo
-Pablo
-
-#org @sTrainerName_Paula
-Paula
-
-#org @sTrainerName_Skeli
-Skeli
-
-#org @sTrainerName_Golche
-Golche
-
-#org @sTrainerName_Gail
-Thanasis
-
-#org @sTrainerName_Lixdel
-Lixdel
-
-#org @sTrainerName_Cynthia
-Cynthia
-
-#org @sTrainerName_Red
-Red
-
-#org @sTrainerName_BigMo
-Big Mo
-
-#org @sTrainerName_Galavan
-Galavan
-
-#org @sTrainerName_Candice
-Candice
-
-#org @sTrainerName_Giovanni
-Giovanni
+#org @sTrainerName_May
+May
 
 //Multi Trainers
-#org @sTrainerName_Milo
-Milo
+#org @sTrainerName_May
+May
 
-#org @sTrainerName_Marlon
-Marlon
-
-#org @sTrainerName_Jax
-Jax
-
-#org @sTrainerName_Tessy
-Tessy
+#org @sTrainerName_Green
+Green
 
 //Raid Multi Trainers
-#org @sTrainerName_Catherine
-Cathy
+#org @sTrainerName_Green
+Green
 
-#org @sTrainerName_Ginger
-Ginger
-
-#org @sTrainerName_Abimbola
-Abimbola
-
-#org @sTrainerName_Mahina
-Mahina
-
-#org @sTrainerName_Alford
-Alford
+#org @sTrainerName_May
+May
 
 #endif
