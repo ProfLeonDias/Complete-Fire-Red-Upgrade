@@ -1022,6 +1022,7 @@ const struct BattleTowerSpread gLegendaryTowerSpread_Egypt1[] =
 		.forDoubles = TRUE,
 		.modifyMovesDoubles = FALSE,
 	},
+	{
 		.species = SPECIES_LATIOS,
 		.nature = NATURE_TIMID,
 		.hpIv = 31,
@@ -1047,6 +1048,7 @@ const struct BattleTowerSpread gLegendaryTowerSpread_Egypt1[] =
 		.forDoubles = FALSE,
 		.modifyMovesDoubles = FALSE,
 	},
+	{
 		.species = SPECIES_LATIOS,
 		.nature = NATURE_TIMID,
 		.hpIv = 31,
@@ -3215,6 +3217,7 @@ const struct BattleTowerSpread gMiddleCupTowerSpread_May[] =
 		.forDoubles = TRUE,
 		.modifyMovesDoubles = TRUE,
 	},
+	{
 		.species = SPECIES_DUSCLOPS,
 		.nature = NATURE_BOLD,
 		.hpIv = 31,
