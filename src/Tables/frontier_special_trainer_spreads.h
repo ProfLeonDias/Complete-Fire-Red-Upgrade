@@ -3033,6 +3033,7 @@ const struct BattleTowerSpread gMiddleCupTowerSpread_May[] =
 		.forDoubles = TRUE,
 		.modifyMovesDoubles = TRUE,
 	},
+	{
 		.species = SPECIES_LOMBRE,
 		.nature = NATURE_MODEST,
 		.hpIv = 31,
