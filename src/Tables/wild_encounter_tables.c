@@ -790,7 +790,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_2),
 		.mapNum = MAP_NUM(ROUTE_2),
@@ -798,7 +798,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(VIRIDIAN_FOREST),
 		.mapNum = MAP_NUM(VIRIDIAN_FOREST),
@@ -806,7 +806,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_3),
 		.mapNum = MAP_NUM(ROUTE_3),
@@ -814,7 +814,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_4),
 		.mapNum = MAP_NUM(ROUTE_4),
@@ -822,7 +822,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_5),
 		.mapNum = MAP_NUM(ROUTE_5),
@@ -830,7 +830,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_6),
 		.mapNum = MAP_NUM(ROUTE_6),
@@ -838,7 +838,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_7),
 		.mapNum = MAP_NUM(ROUTE_7),
@@ -846,7 +846,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_8),
 		.mapNum = MAP_NUM(ROUTE_8),
@@ -854,7 +854,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_9),
 		.mapNum = MAP_NUM(ROUTE_9),
@@ -862,7 +862,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_10),
 		.mapNum = MAP_NUM(ROUTE_10),
@@ -870,7 +870,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_11),
 		.mapNum = MAP_NUM(ROUTE_11),
@@ -878,7 +878,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_12),
 		.mapNum = MAP_NUM(ROUTE_12),
@@ -886,7 +886,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_13),
 		.mapNum = MAP_NUM(ROUTE_13),
@@ -894,7 +894,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_14),
 		.mapNum = MAP_NUM(ROUTE_14),
@@ -902,7 +902,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_15),
 		.mapNum = MAP_NUM(ROUTE_15),
@@ -910,7 +910,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_16),
 		.mapNum = MAP_NUM(ROUTE_16),
@@ -918,7 +918,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_17),
 		.mapNum = MAP_NUM(ROUTE_17),
@@ -926,7 +926,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_18),
 		.mapNum = MAP_NUM(ROUTE_18),
@@ -934,7 +934,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_21_A),
 		.mapNum = MAP_NUM(ROUTE_21_A),
@@ -942,7 +942,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_21_B),
 		.mapNum = MAP_NUM(ROUTE_21_B),
@@ -950,7 +950,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_22),
 		.mapNum = MAP_NUM(ROUTE_22),
@@ -958,7 +958,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_23),
 		.mapNum = MAP_NUM(ROUTE_23),
@@ -966,7 +966,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_24),
 		.mapNum = MAP_NUM(ROUTE_24),
@@ -974,7 +974,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ROUTE_25),
 		.mapNum = MAP_NUM(ROUTE_25),
@@ -982,7 +982,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ONE_ISLAND_TREASURE_BEACH),
 		.mapNum = MAP_NUM(ONE_ISLAND_TREASURE_BEACH),
@@ -990,7 +990,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(ONE_ISLAND_KINDLE_ROAD),
 		.mapNum = MAP_NUM(ONE_ISLAND_KINDLE_ROAD),
@@ -998,47 +998,47 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
-		.mapGroup = MAP_GROUP(MAP_MT_EMBER_EXTERIOR),
-		.mapNum = MAP_NUM(MAP_MT_EMBER_EXTERIOR),
+		.mapGroup = MAP_GROUP(MT_EMBER_EXTERIOR),
+		.mapNum = MAP_NUM(MT_EMBER_EXTERIOR),
 		.landMonsInfo = &gMtEmber_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
-		.mapGroup = MAP_GROUP(MAP_TWO_ISLAND_CAPE_BRINK),
-		.mapNum = MAP_NUM(MAP_TWO_ISLAND_CAPE_BRINK),
+		.mapGroup = MAP_GROUP(TWO_ISLAND_CAPE_BRINK),
+		.mapNum = MAP_NUM(TWO_ISLAND_CAPE_BRINK),
 		.landMonsInfo = &gCapeBrink_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
-		.mapGroup = MAP_GROUP(MAP_THREE_ISLAND_PORT),
-		.mapNum = MAP_NUM(MAP_THREE_ISLAND_PORT),
+		.mapGroup = MAP_GROUP(THREE_ISLAND_PORT),
+		.mapNum = MAP_NUM(THREE_ISLAND_PORT),
 		.landMonsInfo = &gThreeIslePort_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
-		.mapGroup = MAP_GROUP(MAP_THREE_ISLAND_BOND_BRIDGE),
-		.mapNum = MAP_NUM(MAP_THREE_ISLAND_BOND_BRIDGE),
+		.mapGroup = MAP_GROUP(THREE_ISLAND_BOND_BRIDGE),
+		.mapNum = MAP_NUM(THREE_ISLAND_BOND_BRIDGE),
 		.landMonsInfo = &gBondBridge_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
-		.mapGroup = MAP_GROUP(MAP_THREE_ISLAND_BERRY_FOREST),
-		.mapNum = MAP_NUM(MAP_THREE_ISLAND_BERRY_FOREST),
+		.mapGroup = MAP_GROUP(THREE_ISLAND_BERRY_FOREST),
+		.mapNum = MAP_NUM(THREE_ISLAND_BERRY_FOREST),
 		.landMonsInfo = &gBerryForest_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_FIVE_ISLAND_MEADOW),
 		.mapNum = MAP_NUM(MAP_FIVE_ISLAND_MEADOW),
@@ -1046,7 +1046,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_FIVE_ISLAND_MEMORIAL_PILLAR),
 		.mapNum = MAP_NUM(MAP_FIVE_ISLAND_MEMORIAL_PILLAR),
@@ -1054,7 +1054,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_SIX_ISLAND_WATER_PATH),
 		.mapNum = MAP_NUM(MAP_SIX_ISLAND_WATER_PATH),
@@ -1062,7 +1062,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_SIX_ISLAND_RUIN_VALLEY),
 		.mapNum = MAP_NUM(MAP_SIX_ISLAND_RUIN_VALLEY),
@@ -1070,7 +1070,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_SIX_ISLAND_PATTERN_BUSH),
 		.mapNum = MAP_NUM(MAP_SIX_ISLAND_PATTERN_BUSH),
@@ -1078,7 +1078,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_SEVEN_ISLAND_SEVAULT_CANYON_ENTRANCE),
 		.mapNum = MAP_NUM(MAP_SEVEN_ISLAND_SEVAULT_CANYON_ENTRANCE),
@@ -1086,7 +1086,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_SEVEN_ISLAND_SEVAULT_CANYON),
 		.mapNum = MAP_NUM(MAP_SEVEN_ISLAND_SEVAULT_CANYON),
@@ -1094,7 +1094,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MAP_MT_SILVER_ROUTE_28),
 		.mapNum = MAP_NUM(MAP_MT_SILVER_ROUTE_28),
@@ -1102,7 +1102,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = MAP_GROUP(MT_SILVER_EXTERIOR),
 		.mapNum = MAP_NUM(MT_SILVER_EXTERIOR),
@@ -1110,7 +1110,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 	{
 		.mapGroup = 0xFF,
 		.mapNum = 0xFF,
@@ -1118,7 +1118,7 @@ const struct WildPokemonHeader gWildMonNightHeaders[] =
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
-	}
+	},
 };
 
 const struct SwarmData gSwarmTable[] =
