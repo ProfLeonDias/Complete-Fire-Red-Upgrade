@@ -429,7 +429,7 @@ const struct BattleTowerSpread gSpecialTowerSpread_Egypt1[] =
 		.defEv = 8,
 		.spDefEv = 252,
 		.ability = FRONTIER_ABILITY_1, //ABILITY_STURDY
-		.item = ITEM_FLAME_ORB,
+		.item = ITEM_LEFTOVERS,
 		.moves =
 		{
 			MOVE_INFESTATION,
@@ -455,7 +455,7 @@ const struct BattleTowerSpread gSpecialTowerSpread_Egypt1[] =
 		.defEv = 8,
 		.spDefEv = 252,
 		.ability = FRONTIER_ABILITY_1, //ABILITY_STURDY
-		.item = ITEM_FLAME_ORB,
+		.item = ITEM_LEFTOVERS,
 		.moves =
 		{
 			MOVE_INFESTATION,
@@ -481,7 +481,7 @@ const struct BattleTowerSpread gSpecialTowerSpread_Egypt1[] =
 		.defEv = 8,
 		.spDefEv = 252,
 		.ability = FRONTIER_ABILITY_1, //ABILITY_STURDY
-		.item = ITEM_FLAME_ORB,
+		.item = ITEM_LEFTOVERS,
 		.moves =
 		{
 			MOVE_INFESTATION,
@@ -2146,7 +2146,7 @@ const struct BattleTowerSpread gSpecialTowerSpread_May[] =
 		.defEv = 4,
 		.spDefEv = 252,
 		.ability = FRONTIER_ABILITY_1, //ABILITY_LEVITATE
-		.item = ITEM_LIGHTCLAY,
+		.item = ITEM_LIGHT_CLAY,
 		.moves =
 		{
 			MOVE_STEALTHROCK,
@@ -2404,7 +2404,7 @@ const struct BattleTowerSpread gSpecialTowerSpread_May[] =
 		.spdIv = 31,
 		.spAtkEv = 252,
 		.spDefEv = 4,
-		.spd = 252,
+		.spdEv = 252,
 		.ability = FRONTIER_ABILITY_HIDDEN, //ABILITY_LIGHTNINGROD
 		.item = ITEM_LIFE_ORB,
 		.moves =
@@ -2430,7 +2430,7 @@ const struct BattleTowerSpread gSpecialTowerSpread_May[] =
 		.spdIv = 31,
 		.spAtkEv = 252,
 		.spDefEv = 4,
-		.spd = 252,
+		.spdEv = 252,
 		.ability = FRONTIER_ABILITY_HIDDEN, //ABILITY_LIGHTNINGROD
 		.item = ITEM_LIFE_ORB,
 		.moves =
@@ -3072,7 +3072,7 @@ const struct BattleTowerSpread gMiddleCupTowerSpread_May[] =
 		.spdIv = 31,
 		.hpEv = 4,
 		.spAtkEv = 252,
-		.SpdEv = 252,
+		.spdEv = 252,
 		.ability = FRONTIER_ABILITY_HIDDEN, //ABILITY_SCRAPPY
 		.item = ITEM_CHOICE_SPECS,
 		.moves =
@@ -3098,7 +3098,7 @@ const struct BattleTowerSpread gMiddleCupTowerSpread_May[] =
 		.spdIv = 31,
 		.hpEv = 4,
 		.spAtkEv = 252,
-		.SpdEv = 252,
+		.spdEv = 252,
 		.ability = FRONTIER_ABILITY_HIDDEN, //ABILITY_SCRAPPY
 		.item = ITEM_CHOICE_SPECS,
 		.moves =
