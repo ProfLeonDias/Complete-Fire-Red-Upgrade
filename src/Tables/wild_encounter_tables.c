@@ -716,7 +716,7 @@ const struct WildPokemon gSevaultCanyon_LandMonsNight[] =
 	{25, 25, SPECIES_LARVITAR},
 	{25, 25, SPECIES_TRAPINCH},
 	{25, 25, SPECIES_LARVITAR},
-	{25, 25, SPECIES_RAPINCH},
+	{25, 25, SPECIES_TRAPINCH},
 };
 
 const struct WildPokemonInfo gSevaultCanyon_LandMonsInfoNight = {21, gSevaultCanyon_LandMonsNight};
@@ -784,216 +784,216 @@ const struct WildPokemonHeader gWildMonEveningHeaders[] =
 const struct WildPokemonHeader gWildMonNightHeaders[] =
 {
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_1),
-		.mapNum = MAP_NUM(MAP_ROUTE_1),
+		.mapGroup = MAP_GROUP(ROUTE_1),
+		.mapNum = MAP_NUM(ROUTE_1),
 		.landMonsInfo = &gRoute1_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_2),
-		.mapNum = MAP_NUM(MAP_ROUTE_2),
+		.mapGroup = MAP_GROUP(ROUTE_2),
+		.mapNum = MAP_NUM(ROUTE_2),
 		.landMonsInfo = &gRoute2_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_VIRIDIAN_FOREST),
-		.mapNum = MAP_NUM(MAP_VIRIDIAN_FOREST),
+		.mapGroup = MAP_GROUP(VIRIDIAN_FOREST),
+		.mapNum = MAP_NUM(VIRIDIAN_FOREST),
 		.landMonsInfo = &gViridianForest_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_3),
-		.mapNum = MAP_NUM(MAP_ROUTE_3),
+		.mapGroup = MAP_GROUP(ROUTE_3),
+		.mapNum = MAP_NUM(ROUTE_3),
 		.landMonsInfo = &gRoute3_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_4),
-		.mapNum = MAP_NUM(MAP_ROUTE_4),
+		.mapGroup = MAP_GROUP(ROUTE_4),
+		.mapNum = MAP_NUM(ROUTE_4),
 		.landMonsInfo = &gRoute4_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_5),
-		.mapNum = MAP_NUM(MAP_ROUTE_5),
+		.mapGroup = MAP_GROUP(ROUTE_5),
+		.mapNum = MAP_NUM(ROUTE_5),
 		.landMonsInfo = &gRoute5_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_6),
-		.mapNum = MAP_NUM(MAP_ROUTE_6),
+		.mapGroup = MAP_GROUP(ROUTE_6),
+		.mapNum = MAP_NUM(ROUTE_6),
 		.landMonsInfo = &gRoute6_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_7),
-		.mapNum = MAP_NUM(MAP_ROUTE_7),
+		.mapGroup = MAP_GROUP(ROUTE_7),
+		.mapNum = MAP_NUM(ROUTE_7),
 		.landMonsInfo = &gRoute7_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_8),
-		.mapNum = MAP_NUM(MAP_ROUTE_8),
+		.mapGroup = MAP_GROUP(ROUTE_8),
+		.mapNum = MAP_NUM(ROUTE_8),
 		.landMonsInfo = &gRoute8_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_9),
-		.mapNum = MAP_NUM(MAP_ROUTE_9),
+		.mapGroup = MAP_GROUP(ROUTE_9),
+		.mapNum = MAP_NUM(ROUTE_9),
 		.landMonsInfo = &gRoute9_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_10),
-		.mapNum = MAP_NUM(MAP_ROUTE_10),
+		.mapGroup = MAP_GROUP(ROUTE_10),
+		.mapNum = MAP_NUM(ROUTE_10),
 		.landMonsInfo = &gRoute10_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_11),
-		.mapNum = MAP_NUM(MAP_ROUTE_11),
+		.mapGroup = MAP_GROUP(ROUTE_11),
+		.mapNum = MAP_NUM(ROUTE_11),
 		.landMonsInfo = &gRoute11_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_12),
-		.mapNum = MAP_NUM(MAP_ROUTE_12),
+		.mapGroup = MAP_GROUP(ROUTE_12),
+		.mapNum = MAP_NUM(ROUTE_12),
 		.landMonsInfo = &gRoute12_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_13),
-		.mapNum = MAP_NUM(MAP_ROUTE_13),
+		.mapGroup = MAP_GROUP(ROUTE_13),
+		.mapNum = MAP_NUM(ROUTE_13),
 		.landMonsInfo = &gRoute13_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_14),
-		.mapNum = MAP_NUM(MAP_ROUTE_14),
+		.mapGroup = MAP_GROUP(ROUTE_14),
+		.mapNum = MAP_NUM(ROUTE_14),
 		.landMonsInfo = &gRoute14_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_15),
-		.mapNum = MAP_NUM(MAP_ROUTE_15),
+		.mapGroup = MAP_GROUP(ROUTE_15),
+		.mapNum = MAP_NUM(ROUTE_15),
 		.landMonsInfo = &gRoute15_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_16),
-		.mapNum = MAP_NUM(MAP_ROUTE_16),
+		.mapGroup = MAP_GROUP(ROUTE_16),
+		.mapNum = MAP_NUM(ROUTE_16),
 		.landMonsInfo = &gRoute16_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_17),
-		.mapNum = MAP_NUM(MAP_ROUTE_17),
+		.mapGroup = MAP_GROUP(ROUTE_17),
+		.mapNum = MAP_NUM(ROUTE_17),
 		.landMonsInfo = &gRoute17_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_18),
-		.mapNum = MAP_NUM(MAP_ROUTE_18),
+		.mapGroup = MAP_GROUP(ROUTE_18),
+		.mapNum = MAP_NUM(ROUTE_18),
 		.landMonsInfo = &gRoute18_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_21_A),
-		.mapNum = MAP_NUM(MAP_ROUTE_21_A),
+		.mapGroup = MAP_GROUP(ROUTE_21_A),
+		.mapNum = MAP_NUM(ROUTE_21_A),
 		.landMonsInfo = &gRoute21_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_21_B),
-		.mapNum = MAP_NUM(MAP_ROUTE_21_B),
+		.mapGroup = MAP_GROUP(ROUTE_21_B),
+		.mapNum = MAP_NUM(ROUTE_21_B),
 		.landMonsInfo = &gRoute21B_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_22),
-		.mapNum = MAP_NUM(MAP_ROUTE_22),
+		.mapGroup = MAP_GROUP(ROUTE_22),
+		.mapNum = MAP_NUM(ROUTE_22),
 		.landMonsInfo = &gRoute22_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_23),
-		.mapNum = MAP_NUM(MAP_ROUTE_23),
+		.mapGroup = MAP_GROUP(ROUTE_23),
+		.mapNum = MAP_NUM(ROUTE_23),
 		.landMonsInfo = &gRoute23_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_24),
-		.mapNum = MAP_NUM(MAP_ROUTE_24),
+		.mapGroup = MAP_GROUP(ROUTE_24),
+		.mapNum = MAP_NUM(ROUTE_24),
 		.landMonsInfo = &gRoute24_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ROUTE_25),
-		.mapNum = MAP_NUM(MAP_ROUTE_25),
+		.mapGroup = MAP_GROUP(ROUTE_25),
+		.mapNum = MAP_NUM(ROUTE_25),
 		.landMonsInfo = &gRoute25_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ONE_ISLAND_TREASURE_BEACH),
-		.mapNum = MAP_NUM(MAP_ONE_ISLAND_TREASURE_BEACH),
+		.mapGroup = MAP_GROUP(ONE_ISLAND_TREASURE_BEACH),
+		.mapNum = MAP_NUM(ONE_ISLAND_TREASURE_BEACH),
 		.landMonsInfo = &gTreasureBeach_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
 		.fishingMonsInfo = NULL,
 	}
 	{
-		.mapGroup = MAP_GROUP(MAP_ONE_ISLAND_KINDLE_ROAD),
-		.mapNum = MAP_NUM(MAP_ONE_ISLAND_KINDLE_ROAD),
+		.mapGroup = MAP_GROUP(ONE_ISLAND_KINDLE_ROAD),
+		.mapNum = MAP_NUM(ONE_ISLAND_KINDLE_ROAD),
 		.landMonsInfo = &gKindleRoad_LandMonsInfoNight,
 		.waterMonsInfo = NULL,
 		.rockSmashMonsInfo = NULL,
