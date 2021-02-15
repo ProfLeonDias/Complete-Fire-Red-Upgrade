@@ -140,7 +140,7 @@ const struct BattleTowerSpread gMultiTowerSpread_May[] =
 		.spdIv = 31,
 		.spAtkEv = 252,
 		.spDefEv = 4,
-		.spd = 252,
+		.spdEv = 252,
 		.ability = FRONTIER_ABILITY_HIDDEN, //ABILITY_LIGHTNINGROD
 		.item = ITEM_LIFE_ORB,
 		.moves =
@@ -447,7 +447,7 @@ const struct BattleTowerSpread gMultiLittleCupTowerSpread_May[] =
 			MOVE_TOXIC,
 			MOVE_AMNESIA,
 		},
-		.ball = BALL_TYPE_POKE_BALL
+		.ball = BALL_TYPE_POKE_BALL,
 		.forSingles = TRUE,
 		.forDoubles = TRUE,
 		.modifyMovesDoubles = FALSE,
