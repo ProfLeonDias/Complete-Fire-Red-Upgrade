@@ -742,7 +742,7 @@ const struct BattleTowerTrainer gTowerTrainers[] =
 		.playerLoseText = 	sFrontierText_Hiker_PlayerLose_3,
 	},
 	{
-		.owNum = 			EVENT_OBJ_GFX_BIKER,
+		.owNum = 			EVENT_OBJ_GFX_BIKER_BALL,
 		.trainerClass = 	CLASS_BIKER,
 		.trainerSprite = 	TRAINER_PIC_BIKER,
 		.gender = 			BATTLE_FACILITY_MALE,
@@ -751,7 +751,7 @@ const struct BattleTowerTrainer gTowerTrainers[] =
 		.playerLoseText = 	sFrontierText_Biker_PlayerLose_1,
 	},
 	{
-		.owNum = 			EVENT_OBJ_GFX_BIKER,
+		.owNum = 			EVENT_OBJ_GFX_BIKER_BALL,
 		.trainerClass = 	CLASS_BIKER,
 		.trainerSprite = 	TRAINER_PIC_BIKER,
 		.gender = 			BATTLE_FACILITY_MALE,
@@ -760,7 +760,7 @@ const struct BattleTowerTrainer gTowerTrainers[] =
 		.playerLoseText = 	sFrontierText_Biker_PlayerLose_2,
 	},
 	{
-		.owNum = 			EVENT_OBJ_GFX_BIKER,
+		.owNum = 			EVENT_OBJ_GFX_BIKER_BALL,
 		.trainerClass = 	CLASS_BIKER,
 		.trainerSprite = 	TRAINER_PIC_BIKER,
 		.gender = 			BATTLE_FACILITY_MALE,
@@ -1716,7 +1716,7 @@ const struct BattleTowerTrainer gTowerTrainers[] =
 	{
 		.owNum = 			EVENT_OBJ_GFX_POKEFAN_F,
 		.trainerClass = 	CLASS_POKEFAN,
-		.trainerSprite = 	TRAINER_PIC_POKEFAN_F,
+		.trainerSprite = 	TRAINER_PIC_POKRFAN_F,
 		.gender = 			BATTLE_FACILITY_FEMALE,
 		.preBattleText = 	sFrontierText_PokefanF_PreBattle_1,
 		.playerWinText = 	sFrontierText_PokefanF_PlayerWin_1,
@@ -1725,7 +1725,7 @@ const struct BattleTowerTrainer gTowerTrainers[] =
 	{
 		.owNum = 			EVENT_OBJ_GFX_POKEFAN_F,
 		.trainerClass = 	CLASS_POKEFAN,
-		.trainerSprite = 	TRAINER_PIC_POKEFAN_F,
+		.trainerSprite = 	TRAINER_PIC_POKRFAN_F,
 		.gender = 			BATTLE_FACILITY_FEMALE,
 		.preBattleText = 	sFrontierText_PokefanF_PreBattle_2,
 		.playerWinText = 	sFrontierText_PokefanF_PlayerWin_2,
@@ -1734,7 +1734,7 @@ const struct BattleTowerTrainer gTowerTrainers[] =
 	{
 		.owNum = 			EVENT_OBJ_GFX_POKEFAN_F,
 		.trainerClass = 	CLASS_POKEFAN,
-		.trainerSprite = 	TRAINER_PIC_POKEFAN_F,
+		.trainerSprite = 	TRAINER_PIC_POKRFAN_F,
 		.gender = 			BATTLE_FACILITY_FEMALE,
 		.preBattleText = 	sFrontierText_PokefanF_PreBattle_3,
 		.playerWinText = 	sFrontierText_PokefanF_PlayerWin_3,
