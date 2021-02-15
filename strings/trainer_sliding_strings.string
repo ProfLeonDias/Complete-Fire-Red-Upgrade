@@ -8,187 +8,187 @@ Time to Dynamax!\p
 #org @gText_TestTrainerDynamaxMsg
 I now shall unleash the power\nof Dynamax!\p 
 
-#org @sText_BrockFirstMonDown[];
+#org @sText_BrockFirstMonDown
 Good job so far!\nBut it's not over yet!\p
 
-#org @sText_BrockLastSwitchIn[];
+#org @sText_BrockLastSwitchIn
 Try this on for size!\p
 
-#org @sText_BrockLastLowHP[];
+#org @sText_BrockLastLowHP
 Down to the wire!\p
 
-#org @sText_MistyLastSwitchIn[];
+#org @sText_MistyLastSwitchIn
 I didn't think you'd\nget this far!\p
 
-#org @sText_MistyLastLowHP[];
+#org @sText_MistyLastLowHP
 You can do it!\p
 
-#org @sText_SurgeLastSwitchIn[];
+#org @sText_SurgeLastSwitchIn
 It's not over yet, kid!\p
 
-#org @sText_SurgeLastLowHP[];
+#org @sText_SurgeLastLowHP
 What a great battle!\p
 
-#org @sText_ErikaLastSwitchIn[];
+#org @sText_ErikaLastSwitchIn
 Don't underestimate beauty!\p
 
-#org @sText_ErikaLastLowHP[];
+#org @sText_ErikaLastLowHP
 Oh dear...\p
 
-#org @sText_KogaLastSwitchIn[];
+#org @sText_KogaLastSwitchIn
 You will know our\ntrue power!\p
 
-#org @sText_KogaLastLowHP[];
+#org @sText_KogaLastLowHP
 Remain calm...\nWe trained for this!\p
 
-#org @sText_SabrinaLastSwitchIn[];
+#org @sText_SabrinaLastSwitchIn
 I predicted this.\p
 
-#org @sText_SabrinaLastLowHP[];
+#org @sText_SabrinaLastLowHP
 ...\p
 
-#org @sText_BlaineLastSwitchIn[];
+#org @sText_BlaineLastSwitchIn
 Hah!\nYou're gonna get burned!\p
 
-#org @sText_BlaineLastLowHP[];
+#org @sText_BlaineLastLowHP
 Not burnt out yet!\p
 
-#org @sText_GiovanniFirstMonDown[];
+#org @sText_GiovanniFirstMonDown
 I expected as much.\p
 
-#org @sText_GiovanniLastSwitchIn[];
+#org @sText_GiovanniLastSwitchIn
 This will decide our future!\p
 
-#org @sText_GiovanniLastLowHP[];
+#org @sText_GiovanniLastLowHP
 The future of Team Rocket\nhangs on this thread!\p
 
-#org @sText_LoreleiFirstMonDown[];
+#org @sText_LoreleiFirstMonDown
 I see.\nYou've earned those badges!\p
 
-#org @sText_LoreleiLastSwitchIn[];
+#org @sText_LoreleiLastSwitchIn
 You might have a chance!\p
 
-#org @sText_BrunoLastSwitchIn[];
+#org @sText_BrunoLastSwitchIn
 Hah!\nWitness the result of our training!\p
 
-#org @sText_AgathaLastSwitchIn[];
+#org @sText_AgathaLastSwitchIn
 That old duff picked a good\nstudent after all!\p
 
-#org @sText_LanceFirstMonDown[];
+#org @sText_LanceFirstMonDown
 I see how you made it this far!\p
 
-#org @sText_LanceLastSwitchIn[];
+#org @sText_LanceLastSwitchIn
 Face the power of the dragon clan!\p
 
-#org @sText_LanceLastLowHP[];
+#org @sText_LanceLastLowHP
 You may become champion...\p
 
-#org @sText_ChampionLastSwitchIn[];
+#org @sText_ChampionLastSwitchIn
 No way!\p
 
-#org @sText_ChampionLastLowHP[];
+#org @sText_ChampionLastLowHP
 I can't believe this!\p
 
-#org @sText_GreenFirstMonDown[];
+#org @sText_GreenFirstMonDown
 Wow, you're pretty tough!\p
 
-#org @sText_GreenLastSwitchIn[];
+#org @sText_GreenLastSwitchIn
 It's up to you now!\p
 
-#org @sText_GioFirstMonDown[];
+#org @sText_GioFirstMonDown
 I see.\nThat's how you passed my men.\p
 
-#org @sText_GioLastSwitchIn[];
+#org @sText_GioLastSwitchIn
 You will learn respect!\p
 
-#org @sText_Gio2LastLowHP[];
+#org @sText_Gio2LastLowHP
 Impossible!\nA child reduced me to this?\p
 
-#org @sText_ExecutiveLastSwitchIn[];
+#org @sText_ExecutiveLastSwitchIn
 No more games!\p
 
-#org @sText_ArianaLastSwitchIn[];
+#org @sText_ArianaLastSwitchIn
 We put our faith into Archer!\p
 
-#org @sText_ArianaLastLowHP[];
+#org @sText_ArianaLastLowHP
 Team Rocket will rise again!\p
 
-#org @sText_ArcherLastSwitchIn[];
+#org @sText_ArcherLastSwitchIn
 Don't get cocky yet, child.\p
 
-#org @sText_ArcherLastLowHP[];
+#org @sText_ArcherLastLowHP
 Team Rocket will survive...\p
 
-#org @sText_KoichiLastLowHP[];
+#org @sText_KoichiLastLowHP
 Impossible!\p
 
-#org @sText_MinaFirstMonDown[];
+#org @sText_MinaFirstMonDown
 Woah.\nKanto's got some tough trainers.\p
 
-#org @sText_MinaLastSwitchIn[];
+#org @sText_MinaLastSwitchIn
 I should paint this scene later.\p
 
-#org @sText_Mina2LastSwitchIn[];
+#org @sText_Mina2LastSwitchIn
 I'm gonna paint this scene later!\p
 
-#org @sText_GideonLastSwitchIn[];
+#org @sText_GideonLastSwitchIn
 It's not over yet!\p
 
-#org @sText_GideonLastLowHP[];
+#org @sText_GideonLastLowHP
 Why must you ruin everything?!\p
 
-#org @sText_Brock2LastSwitchIn[];
+#org @sText_Brock2LastSwitchIn
 It's not over yet!\p
 
-#org @sText_Misty2LastSwitchIn[];
+#org @sText_Misty2LastSwitchIn
 You're making me mad!\p
 
-#org @sText_Surge2LastSwitchIn[];
+#org @sText_Surge2LastSwitchIn
 Hah! I expected this!\p
 
-#org @sText_Erika2LastSwitchIn[];
+#org @sText_Erika2LastSwitchIn
 Oh my...\p
 
-#org @sText_Koga2LastSwitchIn[];
+#org @sText_Koga2LastSwitchIn
 Witness the result of our training!\p
 
-#org @sText_Sabrina2LastSwitchIn[];
+#org @sText_Sabrina2LastSwitchIn
 ...\p
 
-#org @sText_Blaine2LastSwitchIn[];
+#org @sText_Blaine2LastSwitchIn
 Don't blow your top just yet!\p
 
-#org @sText_MitchLastSwitchIn[];
+#org @sText_MitchLastSwitchIn
 You really are the Champion!\p
 
-#org @sText_Lorelei2LastSwitchIn[];
+#org @sText_Lorelei2LastSwitchIn
 Don't think I'll go easy on you!\p
 
-#org @sText_Lorelei2LastLowHP[];
+#org @sText_Lorelei2LastLowHP
 This is how you protected\nmy home town!\p
 
-#org @sText_Bruno2LastSwitchIn[];
+#org @sText_Bruno2LastSwitchIn
 Hah!\nWitness the result of our training!\p
 
-#org @sText_Agatha2LastSwitchIn[];
+#org @sText_Agatha2LastSwitchIn
 These old bones are fired up!\p
 
-#org @sText_Lance2LastSwitchIn[];
+#org @sText_Lance2LastSwitchIn
 Take this, Champion!\p
 
-#org @sText_Champion2LastSwitchIn[];
+#org @sText_Champion2LastSwitchIn
 I'm not losing my title again!\p
 
-#org @sText_Champion2LastLowHP[];
+#org @sText_Champion2LastLowHP
 I just got it back!\nI can't lose again!\p
 
-#org @sText_GoldFirstMonDown[];
+#org @sText_GoldFirstMonDown
 ...
 
-#org @sText_GoldLastSwitchIn[];
+#org @sText_GoldLastSwitchIn
 ...
 
-#org @sText_GoldLastLowHP[];
+#org @sText_GoldLastLowHP
 ...
 
 //For Pokemon Unbound - Feel free to remove, and do not place strings below
